@@ -1,0 +1,84 @@
+account_email,name,issued_date,expiry_date
+amol@drc.com,Google Professional Data Engineer,01/06/2015,01/06/2022
+amol@drc.com,Google Professional Cloud Developer,01/06/2022,01/06/2030
+ajit@drc.com,Certified Data Science Professional (CDSP),15/07/2017,15/07/2024
+ajit@drc.com,Certified DevOps Engineer,03/12/2036,03/12/2043
+arya@drc.com,Microsoft Certified: Azure Data Engineer Associate,25/11/2018,25/11/2025
+arya@drc.com,Certified Data Warehouse Specialist (CDWS),23/10/2022,23/10/2029
+kirti@drc.com,Salesforce Certified Data Engineer,08/03/2019,08/03/2026
+kirti@drc.com,Certified Data Management Professional (CDMP),18/08/2029,18/08/2036
+amol@cloud.co.in,Certified Cloud Architect,12/09/2020,12/09/2027
+amol@cloud.co.in,Certified Data Analytics Professional (CDAP),15/06/2035,15/06/2042
+ajit@cloud.co.in,Certified Big Data Professional (CBDP),05/05/2021,05/05/2028
+ajit@cloud.co.in,Certified Data Integration Specialist (CDIS),28/12/2025,28/12/2032
+arya@cloud.co.in,Certified Data Warehouse Specialist (CDWS),23/10/2022,23/10/2029
+arya@cloud.co.in,IBM Certified Data Engineer,30/10/2027,30/10/2034
+kirti@cloud.co.in,Certified DevOps Engineer,03/12/2036,03/12/2043
+kirti@cloud.co.in,Certified Data Governance and Compliance Specialist (CDGCS),02/03/2028,02/03/2035
+john@abc.com,Oracle Certified Data Engineer,10/07/2021,10/07/2031
+john@abc.com,Certified Data Analytics Professional (CDAP),15/06/2022,15/06/2042
+jane@abc.com,Certified Data Integration Specialist (CDIS),28/12/2022,28/12/2032
+jane@abc.com,Certified Cloud Security Professional (CCSP),24/04/2021,24/04/2038
+mark@abc.com,CompTIA Cloud+ Certification,15/06/2022,15/06/2033
+mark@abc.com,Certified Data Engineering Professional (CDEP),18/04/2021,18/04/2045
+emily@abc.com,IBM Certified Data Engineer,30/10/2021,30/10/2034
+emily@abc.com,Certified DevOps Engineer,03/12/2021,03/12/2043
+riya@xyzcorp.com,Certified Data Governance and Compliance Specialist (CDGCS),02/03/2022,02/03/2035
+riya@xyzcorp.com,Certified Data Engineering Professional (CDEP),18/04/2020,18/04/2045
+rohan@xyzcorp.com,Certified Data Management Professional (CDMP),18/08/2022,18/08/2036
+rohan@xyzcorp.com,Certified Database Administrator (CDBA),30/01/2021,30/01/2041
+sam@xyzcorp.com,Certified Data Visualization Specialist (CDVS),06/12/2020,06/12/2037
+sam@xyzcorp.com,Certified Data Analytics Professional (CDAP),15/06/2023,15/06/2042
+mia@xyzcorp.com,Certified Cloud Security Professional (CCSP),24/04/2021,24/04/2038
+mia@xyzcorp.com,Certified Cloud Architect,12/09/2020,12/09/2027
+sunil@efgsolutions.com,Certified Business Intelligence Professional (CBIP),12/09/2021,12/09/2039
+sunil@efgsolutions.com,Certified Data Analytics Professional (CDAP),19/12/2020,19/12/2054
+priya@efgsolutions.com,Certified Database Administrator (CDBA),30/01/2021,30/01/2041
+priya@efgsolutions.com,Certified Database Administrator (CDBA),30/01/2020,30/01/2041
+rahul@efgsolutions.com,Certified Data Analytics Professional (CDAP),15/06/2021,15/06/2042
+rahul@efgsolutions.com,Certified Business Intelligence Professional (CBIP),23/03/2023,23/03/2052
+nisha@efgsolutions.com,Certified DevOps Engineer,03/12/2021,03/12/2043
+nisha@efgsolutions.com,Certified Data Warehouse Specialist (CDWS),28/01/2022,28/01/2059
+aanya@pqrsolutions.com,Certified Data Engineering Professional (CDEP),18/04/2022,18/04/2045
+aanya@pqrsolutions.com,Certified Cloud Security Professional (CCSP),14/09/2021,14/09/2057
+piyush@pqrsolutions.com,Certified Data Governance and Compliance Specialist (CDGCS),29/08/2021,29/08/2046
+piyush@pqrsolutions.com,Certified Cloud Security Professional (CCSP),14/09/2020,14/09/2057
+neha@pqrsolutions.com,Certified Cloud Architect,12/02/2018,12/02/2048
+neha@pqrsolutions.com,Certified Data Integration Specialist (CDIS),10/06/2019,10/06/2060
+arjun@pqrsolutions.com,Certified DevOps Engineer,27/06/2022,27/06/2049
+arjun@pqrsolutions.com,Certified Data Governance and Compliance Specialist (CDGCS),18/07/2021,18/07/2064
+arjun@lmnservices.com,Certified Machine Learning Engineer,10/11/2021,10/11/2050
+arjun@lmnservices.com,Certified Data Visualization Specialist (CDVS),02/05/2022,02/05/2056
+sanjay@lmnservices.com,Certified Business Intelligence Professional (CBIP),23/03/2023,23/03/2052
+sanjay@lmnservices.com,Certified Business Intelligence Professional (CBIP),09/01/2021,09/01/2070
+raj@lmnservices.com,Certified Data Management Professional (CDMP),18/08/2020,18/08/2036
+raj@lmnservices.com,Certified Cloud Architect,12/09/2020,12/09/2027
+amit@lmnservices.com,Certified Big Data Professional (CBDP),05/05/2021,05/05/2028
+amit@lmnservices.com,Certified Data Integration Specialist (CDIS),28/12/2025,28/12/2032
+sanya@uwvsolutions.com,Certified Data Warehouse Specialist (CDWS),23/10/2022,23/10/2029
+sanya@uwvsolutions.com,IBM Certified Data Engineer,30/10/2027,30/10/2034
+rahul@uwvsolutions.com,Certified DevOps Engineer,03/12/2036,03/12/2043
+rahul@uwvsolutions.com,Certified Data Governance and Compliance Specialist (CDGCS),02/03/2028,02/03/2035
+priya@uwvsolutions.com,Oracle Certified Data Engineer,10/07/2021,10/07/2031
+priya@uwvsolutions.com,Certified Data Analytics Professional (CDAP),15/06/2022,15/06/2042
+nisha@uwvsolutions.com,Certified Data Integration Specialist (CDIS),28/12/2022,28/12/2032
+nisha@uwvsolutions.com,Certified Cloud Security Professional (CCSP),24/04/2021,24/04/2038
+ram@rsttech.com,CompTIA Cloud+ Certification,15/06/2022,15/06/2033
+ram@rsttech.com,Certified Data Engineering Professional (CDEP),18/04/2021,18/04/2045
+amit@rsttech.com,AWS Certified Solutions Architect,01/06/2015,01/06/2022
+amit@rsttech.com,Certified Data Governance and Compliance Specialist (CDGCS),02/03/2028,02/03/2035
+shivum@rsttech.com,Certified Data Science Professional (CDSP),15/07/2017,15/07/2024
+shivum@rsttech.com,Certified DevOps Engineer,03/12/2036,03/12/2043
+swapnil@rsttech.com,Microsoft Certified: Azure Data Engineer Associate,25/11/2018,25/11/2025
+swapnil@rsttech.com,Certified Data Warehouse Specialist (CDWS),23/10/2022,23/10/2029
+Nisha@wxysolutions.com,AWS Certified Solutions Architect,01/06/2015,01/06/2022
+Nisha@wxysolutions.com,Certified Data Governance and Compliance Specialist (CDGCS),02/03/2028,02/03/2035
+Mayuresh@wxysolutions,Certified Data Science Professional (CDSP),15/07/2017,15/07/2024
+Mayuresh@wxysolutions,Certified DevOps Engineer,03/12/2036,03/12/2043
+Amar@wxysolutions,Microsoft Certified: Azure Data Engineer Associate,25/11/2018,25/11/2025
+Amar@wxysolutions,Certified Data Warehouse Specialist (CDWS),23/10/2022,23/10/2029
+Hitesh@wxysolutions,Certified Cloud Architect,12/02/2018,12/02/2048
+Hitesh@wxysolutions,Certified Data Integration Specialist (CDIS),10/06/2019,10/06/2060
+
+
+

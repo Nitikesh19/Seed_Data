@@ -1,0 +1,12 @@
+role,email,name,pass,phone,sex,marital_status
+AD,admin@support.com,Support admin,pass@123,+1650877006,ML,MR
+AD,sandeep@support.com,Sandeep despande,pass@123,+1650877006,ML,MR
+HR,anagha@support.com,Anagha,pass@123,+1650877007,FE,MR
+FI,nitin@support.com,Nitin Patil,pass@123,+1650877007,ML,MR
+OA,harshita@support.com,Harshita Lambate,pass@123,+1650877011,FE,MR
+OP,shruti@support.com,Shruti Kelkar,pass@123,+1650877012,FE,NM
+AA,divya@support.com,Divya Phate,pass@123,+1650877008,FE,MR
+AM,nakul@support.com,Nakul Gawande,pass@123,+1650877009,ML,MR
+AM,priyanka@support.com,Priyanka Kinkar,pass@123,+1650877010,FE,MR
+IR,vikram@support.com,Vikram Chandel,pass@123,+1650877011,ML,MR
+IR,saket@support.com,Saket Nimbargi,pass@123,+1650877012,ML,NM

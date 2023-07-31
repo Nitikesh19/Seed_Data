@@ -1,0 +1,121 @@
+partner_email,role,email,name,pass,phone,sex,marital_status
+admin@drc.com,AD,admin@drc.com,DRC admin,pass@123,8446316567,ML,NM
+admin@drc.com,HR,hr@drc.com,DRC hr,pass@123,8446316568,ML,NM
+admin@drc.com,FI,ac@drc.com,DRC finance,pass@123,8446316569,ML,NM
+admin@drc.com,PA,pma@drc.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@drc.com,PM,pm@drc.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@cloud.co.in,AD,admin@cloud.co.in,Cloud admin,pass@123,8446316494,ML,NM
+admin@cloud.co.in,HR,hr@cloud.co.in,Cloud hr,pass@123,8446316477,ML,NM
+admin@cloud.co.in,FI,ac@cloud.co.in,Cloud finance,pass@123,8446316460,ML,NM
+admin@cloud.co.in,PA,pma@cloud.co.in,Cloud project admin,pass@123,8446316443,ML,NM
+admin@cloud.co.in,PM,pm@cloud.co.in,Cloud project manager,pass@123,8446316426,ML,MR
+john@abc.com,AD,denny@abc.com,abc admin,pass@123,8446316409,ML,NM
+john@abc.com,HR,hr@abc.com,abc hr,pass@123,8446316392,ML,NM
+john@abc.com,FI,ac@abc.com,abc finance,pass@123,8446316375,ML,NM
+john@abc.com,PA,pma@abc.com,abc project admin,pass@123,8446316358,ML,MR
+john@abc.com,PM,pm@abc.com,abc project manager,pass@123,8446316341,ML,NM
+riya@xyzcorp.com,AD,priya@xyzcorp.com,xyzcorp admin,pass@123,8446316324,ML,NM
+riya@xyzcorp.com,HR,hr@xyzcorp.com,xyzcorp hr,pass@123,8446316307,ML,NM
+riya@xyzcorp.com,FI,ac@xyzcorp.com,xyzcorp finance,pass@123,8446316290,ML,NM
+riya@xyzcorp.com,PA,pma@xyzcorp.com,xyzcorp project admin,pass@123,8446316273,ML,NM
+riya@xyzcorp.com,PM,pm@xyzcorp.com,xyzcorp project manager,pass@123,8446316256,ML,MR
+sunil@efgsolutions.com,AD,sunil@efgsolution.com,efgsolution admin,pass@123,8446316239,ML,NM
+sunil@efgsolutions.com,HR,hr@efgsolution.com,efgsolution hr,pass@123,8446316222,ML,NM
+sunil@efgsolutions.com,FI,ac@efgsolution.com,efgsolution finance,pass@123,8446316205,ML,NM
+sunil@efgsolutions.com,PA,pma@efgsolution.com,efgsolution project admin,pass@123,8446316188,ML,NM
+sunil@efgsolutions.com,PM,pm@efgsolution.com,efgsolution project manager,pass@123,8446316171,ML,NM
+aanya@pqrsolutions.com,AD,diya@pqrsolutions.com,pqrsolutions admin,pass@123,8446316154,ML,NM
+aanya@pqrsolutions.com,HR,hr@pqrsolutions.com,pqrsolutions hr,pass@123,8446316137,ML,NM
+aanya@pqrsolutions.com,FI,ac@pqrsolutions.com,pqrsolutions finance,pass@123,8446316120,ML,MR
+aanya@pqrsolutions.com,PA,pma@pqrsolutions.com,pqrsolutions project admin,pass@123,8446316103,ML,NM
+aanya@pqrsolutions.com,PM,pm@pqrsolutions.com,pqrsolutions project manager,pass@123,8446316086,ML,NM
+arjun@lmnservices.com,AD,karan@lmnservices.com,lmnservices admin,pass@123,8446316069,ML,NM
+arjun@lmnservices.com,HR,hr@lmnservices.com,lmnservices hr,pass@123,8446316052,ML,NM
+arjun@lmnservices.com,FI,ac@lmnservices.com,lmnservices finance,pass@123,8446316035,ML,MR
+arjun@lmnservices.com,PA,pma@lmnservices.com,lmnservices project admin,pass@123,8446316018,ML,NM
+arjun@lmnservices.com,PM,pm@lmnservices.com,lmnservices project manager,pass@123,8446316001,ML,NM
+sanya@uwvsolutions.com,AD,amey@uwvsolutions.com,efgsolution admin,pass@123,8446315984,ML,NM
+karan@rsttech.com,AD,karan@rsttech.com,rsttech admin,pass@123,8446315899,ML,MR
+karan@rsttech.com,HR,hr@rsttech.com,rsttech hr,pass@123,8446315882,ML,NM
+karan@rsttech.com,FI,ac@rsttech.com,rsttech finance,pass@123,8446315865,ML,NM
+karan@rsttech.com,PA,pma@rsttech.com,rsttech project admin,pass@123,8446315848,ML,NM
+karan@rsttech.com,PM,pm@rsttech.com,rsttech project manager,pass@123,8446315831,ML,NM
+kavya@wxysolutions.com,AD,kavya@wxysolutions.com,wxysolutions admin,pass@123,8446315814,ML,NM
+kavya@wxysolutions.com,HR,hr@wxysolutions.com,wxysolutions hr,pass@123,8446315797,ML,NM
+kavya@wxysolutions.com,FI,ac@wxysolutions.com,wxysolutions finance,pass@123,8446315780,ML,NM
+kavya@wxysolutions.com,PA,pma@wxysolutions.com,wxysolutions project admin,pass@123,8446315763,ML,NM
+kavya@wxysolutions.com,PM,pm@wxysolutions.com,wxysolutions project manager,pass@123,8446315746,ML,MR
+admin@yash.com,AD,admin@yash.com,DRC admin,pass@123,8446316567,ML,NM
+admin@yash.com,HR,hr@yash.com,DRC hr,pass@123,8446316568,ML,NM
+admin@yash.com,FI,ac@yash.com,DRC finance,pass@123,8446316569,ML,NM
+admin@yash.com,PA,pma@yash.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@yash.com,PM,pm@yash.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@yash.com,AD,hr2@yash.com,DRC admin,pass@123,8446316567,ML,NM
+admin@yash.com,HR,hr3@yash.com,DRC hr,pass@123,8446316568,ML,NM
+admin@yash.com,FI,ac2@yash.com,DRC finance,pass@123,8446316569,ML,NM
+admin@yash.com,PA,pma2@yash.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@yash.com,PM,pm2@yash.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@yash.com,AD,hr4@yash.com,DRC admin,pass@123,8446316567,ML,NM
+admin@yash.com,HR,hr5@yash.com,DRC hr,pass@123,8446316568,ML,NM
+admin@yash.com,FI,ac3@yash.com,DRC finance,pass@123,8446316569,ML,NM
+admin@yash.com,PA,pma3@yash.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@yash.com,PM,pm3@yash.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@shivani.co.in,AD,admin@shivani.co.in,Cloud admin,pass@123,8446316494,ML,NM
+admin@shivani.co.in,HR,hr@shivani.co.in,Cloud hr,pass@123,8446316477,ML,NM
+admin@shivani.co.in,FI,ac@shivani.co.in,Cloud finance,pass@123,8446316460,ML,NM
+admin@shivani.co.in,PA,pma@shivani.co.in,Cloud project admin,pass@123,8446316443,ML,NM
+admin@shivani.co.in,PM,pm@shivani.co.in,Cloud project manager,pass@123,8446316426,ML,MR
+admin@shivani.co.in,AD,hr1@shivani.co.in,Cloud admin,pass@123,8446316494,ML,NM
+admin@shivani.co.in,HR,hr2@shivani.co.in,Cloud hr,pass@123,8446316477,ML,NM
+admin@shivani.co.in,FI,ac1@shivani.co.in,Cloud finance,pass@123,8446316460,ML,NM
+admin@shivani.co.in,PA,pma1@shivani.co.in,Cloud project admin,pass@123,8446316443,ML,NM
+admin@shivani.co.in,PM,pm1@shivani.co.in,Cloud project manager,pass@123,8446316426,ML,MR
+admin@amar.com,AD,admin@amar.com,abc admin,pass@123,8446316409,ML,NM
+admin@amar.com,HR,hr@amar.com,abc hr,pass@123,8446316392,ML,NM
+admin@amar.com,FI,ac@amar.com,abc finance,pass@123,8446316375,ML,NM
+admin@amar.com,PA,pma@amar.com,abc project admin,pass@123,8446316358,ML,MR
+admin@amar.com,PM,pm@amar.com,abc project manager,pass@123,8446316341,ML,NM
+admin@amar.com,AD,hr1@amar.com,abc admin,pass@123,8446316409,ML,NM
+admin@amar.com,HR,hr2@amar.com,abc hr,pass@123,8446316392,ML,NM
+admin@amar.com,FI,ac1@amar.com,abc finance,pass@123,8446316375,ML,NM
+admin@amar.com,PA,pma1@amar.com,abc project admin,pass@123,8446316358,ML,MR
+
+
+
+
+
+
+admin@hitesh.com,AD,admin@drc.com,DRC admin,pass@123,8446316567,ML,NM
+admin@hitesh.com,HR,hr@drc.com,DRC hr,pass@123,8446316568,ML,NM
+admin@hitesh.com,FI,ac@drc.com,DRC finance,pass@123,8446316569,ML,NM
+admin@hitesh.com,PA,pma@drc.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@hitesh.com,PM,pm@drc.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@hitesh.com,AD,admin@drc.com,DRC admin,pass@123,8446316567,ML,NM
+admin@hitesh.com,HR,hr@drc.com,DRC hr,pass@123,8446316568,ML,NM
+admin@hitesh.com,FI,ac@drc.com,DRC finance,pass@123,8446316569,ML,NM
+admin@hitesh.com,PA,pma@drc.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@hitesh.com,PM,pm@drc.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@hitesh.com,AD,admin@drc.com,DRC admin,pass@123,8446316567,ML,NM
+admin@hitesh.com,HR,hr@drc.com,DRC hr,pass@123,8446316568,ML,NM
+admin@hitesh.com,FI,ac@drc.com,DRC finance,pass@123,8446316569,ML,NM
+admin@hitesh.com,PA,pma@drc.com,DRC project admin,pass@123,8446316510,ML,NM
+admin@hitesh.com,PM,pm@drc.com,DRC project manager,pass@123,8446316511,ML,NM
+admin@nitikesh.co.in,AD,admin@cloud.co.in,Cloud admin,pass@123,8446316494,ML,NM
+admin@nitikesh.co.in,HR,hr@cloud.co.in,Cloud hr,pass@123,8446316477,ML,NM
+admin@nitikesh.co.in,FI,ac@cloud.co.in,Cloud finance,pass@123,8446316460,ML,NM
+admin@nitikesh.co.in,PA,pma@cloud.co.in,Cloud project admin,pass@123,8446316443,ML,NM
+admin@nitikesh.co.in,PM,pm@cloud.co.in,Cloud project manager,pass@123,8446316426,ML,MR
+admin@nitikesh.co.in,AD,admin@cloud.co.in,Cloud admin,pass@123,8446316494,ML,NM
+admin@nitikesh.co.in,HR,hr@cloud.co.in,Cloud hr,pass@123,8446316477,ML,NM
+admin@nitikesh.co.in,FI,ac@cloud.co.in,Cloud finance,pass@123,8446316460,ML,NM
+admin@nitikesh.co.in,PA,pma@cloud.co.in,Cloud project admin,pass@123,8446316443,ML,NM
+admin@nitikesh.co.in,PM,pm@cloud.co.in,Cloud project manager,pass@123,8446316426,ML,MR
+john@amar.com,AD,denny@abc.com,abc admin,pass@123,8446316409,ML,NM
+john@amar.com,HR,hr@abc.com,abc hr,pass@123,8446316392,ML,NM
+john@amar.com,FI,ac@abc.com,abc finance,pass@123,8446316375,ML,NM
+john@amar.com,PA,pma@abc.com,abc project admin,pass@123,8446316358,ML,MR
+john@amar.com,PM,pm@abc.com,abc project manager,pass@123,8446316341,ML,NM
+john@amar.com,AD,denny@abc.com,abc admin,pass@123,8446316409,ML,NM
+john@amar.com,HR,hr@abc.com,abc hr,pass@123,8446316392,ML,NM
+john@amar.com,FI,ac@abc.com,abc finance,pass@123,8446316375,ML,NM
+john@amar.com,PA,pma@abc.com,abc project admin,pass@123,8446316358,ML,MR

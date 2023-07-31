@@ -1,0 +1,76 @@
+partner_email,role,email,name,pass,phone,sex,marital_status
+admin@drc.com,AD,amol@drc.com,Amol Gajdhane,pass@123,+1650877006,ML,NM
+admin@drc.com,AD,ajit@drc.com,Ajit Despande,pass@123,+1650877006,ML,NM
+admin@drc.com,AD,arya@drc.com,Arya Jaiswal,pass@123,+1650877006,FE,MR
+admin@drc.com,AD,kirti@drc.com,Kirti Shahne,pass@123,+1650877006,FE,NM
+admin@cloud.co.in,AD,amol@cloud.co.in,Amol Gajdhane,pass@123,+1650877006,ML,NM
+admin@cloud.co.in,AD,ajit@cloud.co.in,Ajit Despande,pass@123,+1650877006,ML,NM
+admin@cloud.co.in,AD,arya@cloud.co.in,Arya Jaiswal,pass@123,+1650877006,FE,MR
+admin@cloud.co.in,AD,kirti@cloud.co.in,Kirti Shahne,pass@123,+1650877006,FE,NM
+john@abc.com,AD,john@abc.com,John Doe,pass@123,5412970836,ML,NM
+john@abc.com,AD,jane@abc.com,Jane Smith,pass@123,9073658214,ML,NM
+john@abc.com,AD,mark@abc.com,Mark Johnson,pass@123,4386150792,ML,MR
+john@abc.com,AD,emily@abc.com,Emily Davis,pass@123,7918465032,FE,NM
+riya@xyzcorp.com,AD,riya@xyzcorp.com,Riya Patel,pass@123,9354702168,FE,NM
+riya@xyzcorp.com,AD,rohan@xyzcorp.com,Rohan Gupta,pass@123,2684150397,ML,NM
+riya@xyzcorp.com,AD,sam@xyzcorp.com,Sam Wilson,pass@123,7810394625,ML,MR
+riya@xyzcorp.com,AD,mia@xyzcorp.com,Mia Johnson,pass@123,5203967814,FE,NM
+sunil@efgsolutions.com,AD,sunil@efgsolutions.com,Sunil Kumar,pass@123,7032189574,ML,NM
+sunil@efgsolutions.com,AD,priya@efgsolutions.com,Priya Sharma,pass@123,4197652308,FE,NM
+sunil@efgsolutions.com,AD,rahul@efgsolutions.com,Rahul Gupta,pass@123,8750463291,ML,MR
+sunil@efgsolutions.com,AD,nisha@efgsolutions.com,Nisha Singh,pass@123,3082174569,FE,NM
+aanya@pqrsolutions.com,AD,aanya@pqrsolutions.com,Aanya Verma,pass@123,9267410358,FE,NM
+aanya@pqrsolutions.com,AD,piyush@pqrsolutions.com,Piyush Jain,pass@123,3586049271,ML,NM
+aanya@pqrsolutions.com,AD,neha@pqrsolutions.com,Neha Singh,pass@123,7105392684,FE,MR
+aanya@pqrsolutions.com,AD,arjun@pqrsolutions.com,Arjun Kumar,pass@123,4698250173,ML,NM
+arjun@lmnservices.com,AD,arjun@lmnservices.com,Arjun Kapoor,pass@123,6874250391,ML,NM
+arjun@lmnservices.com,AD,sanjay@lmnservices.com,Sanjay Gupta,pass@123,4310967825,ML,NM
+arjun@lmnservices.com,AD,raj@lmnservices.com,Raj Sharma,pass@123,9027614538,ML,MR
+arjun@lmnservices.com,AD,amit@lmnservices.com,Amit Patel,pass@123,2759380164,ML,NM
+sanya@uwvsolutions.com,AD,sanya@uwvsolutions.com,Sanya Verma,pass@123,7125940836,FE,NM
+sanya@uwvsolutions.com,AD,rahul@uwvsolutions.com,Rahul Kumar,pass@123,4890276513,ML,NM
+sanya@uwvsolutions.com,AD,priya@uwvsolutions.com,Priya Sharma,pass@123,6408715932,FE,MR
+sanya@uwvsolutions.com,AD,nisha@uwvsolutions.com,Nisha Singh,pass@123,8239564170,FE,NM
+karan@rsttech.com,AD,ram@rsttech.com,Ram Singh,pass@123,6927840153,ML,NM
+karan@rsttech.com,AD,amit@rsttech.com,Amit Patel,pass@123,4086513297,ML,NM
+karan@rsttech.com,AD,shivum@rsttech.com,Shivum Tabatkar,pass@123,9157264038,ML,MR
+karan@rsttech.com,AD,swapnil@rsttech.com,Swapnil Patil,pass@123,3470185629,ML,NM
+kavya@wxysolutions.com,AD,Nisha@wxysolutions.com,Nisha Singh,pass@123,7650943128,FE,NM
+kavya@wxysolutions.com,AD,Mayuresh@wxysolutions,Mayuresh Rawat,pass@123,4801326579,ML,NM
+kavya@wxysolutions.com,AD,Amar@wxysolutions,Amar Kumavat,pass@123,6394582071,ML,MR
+kavya@wxysolutions.com,AD,Hitesh@wxysolutions,Hitesh Verma,pass@123,2758031649,ML,NM
+admin@yash.com,AD,priyankfs.net@gmail.com,Priyank Vadi,pass@123,8765092314,ML,NM
+admin@yash.com,AD,pravin@upperthrust.com,Pravin Rathod,pass@123,9456031872,ML,NM
+admin@yash.com,AD,jalad.jhamb@giitian.com,Jalad Jhamb,pass@123,2185769034,FE,MR
+admin@yash.com,AD,ashishpsharma9@gmail.com,Aashish Kumar Sharma,pass@123,4079123658,FE,NM
+admin@yash.com,AD,shajra1988@gmail.com,Saubhik Hajra,pass@123,8765092314,ML,NM
+admin@yash.com,AD,sravanreddyrsm@gmail.com,K Sravan Kumar Reddy,pass@123,9456031872,ML,NM
+admin@yash.com,AD,raj.s.ecodedash@gmail.com,Vinkayala Veera Raja Shekhar ,pass@123,2185769034,FE,MR
+admin@yash.com,AD,dibyendu.rakshit@gmail.com,Dibyendu Rakshit,pass@123,4079123658,FE,NM
+admin@yash.com,AD,Akashsnghl786@gmail.com,Akash Singhal,pass@123,4079123659,ML,NM
+admin@yash.com,AD,Pradip.wandhekar@gmail.com,Pradip Wandhekar		,pass@123,8765092314,ML,NM
+admin@yash.com,AD,Sawantpravin128@gmail.com,Pravin Sawant,pass@123,9456031872,ML,NM
+admin@yash.com,AD,Prithvichavan83@gmail.com,Prithvi Chavan,pass@123,2185769034,FE,MR
+admin@yash.com,AD,vinjamvamsi1992@gmail.com,Vinjam Vamshikrishna                ,pass@123,4079123658,FE,NM
+admin@yash.com,AD,vsantosh.v488@gmail.com,Vunikili Santosh Kumar,pass@123,8765092314,ML,NM
+admin@yash.com,AD,kaleemullah.7777@gmail.com,Mirza Kaleemullah Biag		,pass@123,9456031872,ML,NM
+admin@yash.com,AD,selvakqa@gmail.com,Selvakumar Srinivasan		,pass@123,2185769034,FE,MR
+admin@shivani.co.in,AD,ngautamsdet@gmail.com,Nitin Gautam,pass@123,8415703296,ML,NM
+admin@shivani.co.in,AD,chirag.ali47@gmail.com,Chirag Ali Palsania		,pass@123,3694087521,ML,NM
+admin@shivani.co.in,AD,samay.thakkar@outlook.com ,Samay Thakkar,pass@123,5278139460,FE,MR
+admin@shivani.co.in,AD,panduranggpailvan@gmail.com,Pandurang Pailvan,pass@123,1047362958,FE,NM
+admin@shivani.co.in,AD,gopalakrishnan.chakkaravarthy@hotmail.com,Gopalakrishnan Chakkaravarthy                                                                        ,pass@123,8415703296,ML,NM
+admin@shivani.co.in,AD,shubhams930215@gmail.com,Shubham Sharma,pass@123,3694087521,ML,NM
+admin@shivani.co.in,AD,jagriti.magento@gmail.com,Jagriti Gupta,pass@123,5278139460,FE,MR
+admin@shivani.co.in,AD,rajesh9205k@gmail.com,Rajesh Kumar Tak,pass@123,1047362958,FE,NM
+admin@shivani.co.in,AD,vaibhavbangar28@gmail.com,Vaibhav Ankush Bangar,pass@123,5278139460,FE,MR
+admin@shivani.co.in,AD,samay.thakkar@outlook.com,Samay Thakkar,pass@123,1047362958,FE,NM
+admin@amar.com,AD,setiya.hitesh@gmail.com,Hitesh,pass@123,5412970836,ML,NM
+admin@amar.com,AD,tejas.p@goldeneagle.ai,Tejas Patil,pass@123,9073658214,ML,NM
+admin@amar.com,AD,vidish1@gmail.com,Vidish Purohit,pass@123,4386150792,ML,MR
+admin@amar.com,AD,rajeshawariravindra@gmail.com,Rajeshwari B R,pass@123,7918465032,FE,NM
+admin@amar.com,AD,ahmad@elsner.in,Ahmad Palsaniya,pass@123,5412970836,ML,NM
+admin@amar.com,AD,krishn.tushar@gmail.com,Tushar Krishna Srivastava ,pass@123,9073658214,ML,NM
+admin@amar.com,AD,sumeet@teaminnovatics.com,Sumit Rathi,pass@123,4386150792,ML,MR
+admin@amar.com,AD,prathamesh.kulkarni@salorix.in,Prathmesh Kulkarni,pass@123,7918465032,FE,NM
+admin@amar.com,AD,bhaveshbhuva108@gmail.com,Bhavesh R. Bhuva,pass@123,4386150792,ML,MR

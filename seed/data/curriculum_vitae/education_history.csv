@@ -1,0 +1,86 @@
+account_email,school,degree,field_of_study,start_date,end_date,pursuing,description
+amol@drc.com,"Indian Institute of Technology, Delhi",ME,CS,01/06/2007,01/06/2009,False,Computer Vision was my research area. Tracking object using multiple cameras.
+amol@drc.com,"Vidya Pratisthan College of Engineering, Pune",BE,CS,01/06/2003,01/06/2007,False,First class with distinction. Final year project was database diff tool
+ajit@drc.com,"Vidya Pratisthan College of Engineering, Pune",BSBA,CS,01/06/2003,01/06/2007,FALSE,First class with distinction. Final year project was a database diff tool.
+ajit@drc.com,Some University,BE,CE,01/09/2007,01/09/2010,TRUE,Currently pursuing a degree in Physics.
+arya@drc.com,ABC College,BDes,ELE,01/08/2010,01/08/2013,FALSE,Graduated with honors in Psychology.
+arya@drc.com,XYZ Institute,BAppSc,ME,01/07/2012,01/07/2014,FALSE,Completed an MBA with a focus on Business Administration.
+kirti@drc.com,University of Science and Technology,BAAS,ELT,01/09/2015,01/09/2020,FALSE,Conducted research on chemical reactions in my doctoral program.
+kirti@drc.com,ABC University,BAA,CS,01/09/2009,01/09/2011,FALSE,Specialized in abstract algebra and number theory.
+amol@cloud.co.in,XYZ College,BA,CE,01/08/2014,01/08/2017,FALSE,Studied various aspects of business management.
+amol@cloud.co.in,PQR Institute,AA,ELE,01/07/2010,01/07/2012,FALSE,Explored postcolonial literature during my master's program.
+ajit@cloud.co.in,LMN University,AAA,ME,01/09/2007,01/09/2010,FALSE,Researched ancient civilizations as part of my history degree.
+ajit@cloud.co.in,University of ABC,AE,ELT,01/08/2013,01/08/2017,FALSE,Completed a bachelor's degree in Mechanical Engineering.
+arya@cloud.co.in,LMN College,AS,CS,01/09/2011,01/09/2014,FALSE,Learned financial accounting principles and practices.
+arya@cloud.co.in,XYZ University,AGS,CE,01/08/2016,01/08/2021,FALSE,Conducted research on artificial intelligence and machine learning.
+kirti@cloud.co.in,ABC Institute,MSc,ELE,01/07/2012,01/07/2014,FALSE,Explored the impact of pollution on aquatic ecosystems.
+kirti@cloud.co.in,PQR College,ASN,ME,01/09/2008,01/09/2011,FALSE,Studied sociological theories and conducted social research.
+john@abc.com,LMN Institute,MBA,ELT,01/08/2013,01/08/2015,FALSE,Specialized in marketing strategies and consumer behavior.
+john@abc.com,University of XYZ,AF,CS,01/09/2010,01/09/2012,FALSE,Focused on structural engineering and infrastructure design.
+jane@abc.com,ABC University,AT,CE,01/07/2010,01/07/2012,FALSE,Analyzed language patterns and language acquisition.
+jane@abc.com,XYZ College,AAB,ELE,01/09/2007,01/09/2010,FALSE,Studied organic and inorganic chemistry principles.
+mark@abc.com,PQR University,AAS,ME,01/08/2015,01/08/2020,FALSE,Conducted research on macroeconomic policies and their impact.
+mark@abc.com,LMN College,AAT,ELT,01/07/2012,01/07/2015,FALSE,Learned financial management and investment analysis.
+emily@abc.com,ABC Institute,ABS,CS,01/09/2009,01/09/2011,FALSE,Explored classical and contemporary literary works.
+emily@abc.com,PQR University,ABA,CE,01/08/2013,01/08/2017,FALSE,Specialized in power systems and renewable energy.
+riya@xyzcorp.com,XYZ College,AES,ELE,01/09/2011,01/09/2014,FALSE,Studied marketing principles and consumer behavior.
+riya@xyzcorp.com,University of LMN,ADN,ME,01/08/2014,01/08/2016,FALSE,Focused on software development and data analysis.
+rohan@xyzcorp.com,ABC University,AET,ELT,01/07/2012,01/07/2017,FALSE,Conducted research on cognitive psychology and behavior.
+rohan@xyzcorp.com,XYZ College,AFA,CS,01/09/2009,01/09/2012,FALSE,Explored political ideologies and global politics.
+sam@xyzcorp.com,PQR Institute,APE,CE,01/08/2013,01/08/2015,FALSE,Specialized in talent acquisition and employee development.
+sam@xyzcorp.com,LMN University,AIT,ELE,01/07/2010,01/07/2012,FALSE,Analyzed philosophical theories and ethical principles.
+mia@xyzcorp.com,University of ABC,AOS,ME,01/09/2007,01/09/2010,FALSE,Studied cellular biology and genetics.
+mia@xyzcorp.com,LMN College,APT,ELT,01/08/2014,01/08/2018,FALSE,Focused on chemical processes and industrial applications.
+sunil@efgsolutions.com,XYZ University,APS,CS,01/07/2012,01/07/2014,FALSE,Conducted research on quantum mechanics and astrophysics.
+sunil@efgsolutions.com,ABC Institute,BArch,CE,01/09/2009,01/09/2011,FALSE,Explored various forms of visual arts and artistic techniques.
+priya@efgsolutions.com,PQR University,BA,ELE,01/08/2015,01/08/2020,FALSE,Conducted research on social inequality and cultural dynamics.
+priya@efgsolutions.com,LMN College,BAA,ME,01/07/2012,01/07/2015,FALSE,Learned about global trade and international market analysis.
+rahul@efgsolutions.com,ABC Institute,BAAS,ELT,01/09/2010,01/09/2012,FALSE,Explored the geological formations and processes.
+rahul@efgsolutions.com,XYZ College,BAppSc,CS,01/09/2009,01/09/2012,FALSE,Explored the diversity of life and studied various biological processes.
+nisha@efgsolutions.com,LMN University,BDes,CE,01/08/2013,01/08/2017,FALSE,Specialized in structural design and construction management.
+nisha@efgsolutions.com,ABC Institute,ABS,ELE,01/07/2010,01/07/2012,FALSE,Analyzed classic literary works and explored literary criticism.
+aanya@pqrsolutions.com,PQR University,AES,ME,01/08/2015,01/08/2019,FALSE,Studied marketing strategies and consumer behavior.
+aanya@pqrsolutions.com,LMN College,APE,ELT,01/07/2012,01/07/2015,FALSE,Conducted research on machine learning algorithms and applications.
+piyush@pqrsolutions.com,XYZ University,AOS,CS,01/09/2009,01/09/2011,FALSE,Explored environmental issues and studied conservation methods.
+piyush@pqrsolutions.com,ABC Institute,BSBA,CE,01/08/2013,01/08/2016,FALSE,Analyzed historical events and studied different historical periods.
+neha@pqrsolutions.com,PQR University,BE,ELE,01/07/2010,01/07/2014,FALSE,Specialized in machine design and thermodynamics.
+neha@pqrsolutions.com,LMN College,BDes,ME,01/09/2007,01/09/2010,FALSE,Studied financial markets and investment analysis.
+arjun@pqrsolutions.com,XYZ University,BAppSc,ELT,01/08/2014,01/08/2020,FALSE,Conducted research on computer architecture and hardware design.
+arjun@pqrsolutions.com,ABC Institute,BAAS,CS,01/07/2012,01/07/2014,FALSE,Explored quantum physics and conducted experiments in the lab.
+arjun@lmnservices.com,PQR University,BAA,CE,01/08/2009,01/08/2011,FALSE,Studied sociological theories and conducted social research.
+arjun@lmnservices.com,LMN College,BA,ELE,01/09/2006,01/09/2009,FALSE,Explored different forms of communication and media effects.
+priyankfs.net@gmail.com, V.N.S.G.U. (Surat),MSC,IT,02/05/2012,02/05/2014,FALSE,First class with distinction. Final year project was a database diff tool.
+pravin@upperthrust.com,M.Tech. (Software Systems) – VIT,ME,CE,02/05/2011,05/04/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+jalad.jhamb@giitian.com,Rajasthan Technical University Kota Rajasthan,BTECH,IT,04/06/2012,04/06/2016,FALSE,First class with distinction. Final year project was a database diff tool.
+ashishpsharma9@gmail.com,VIT Vellore,BTECH,IT,06/05/2015,05/04/2019,FALSE,First class with distinction. Final year project was a database diff tool.
+shajra1988@gmail.com,Haldia Institute of Technology,BTECH,IT,04/05/2007,05/06/2011,FALSE,First class with distinction. Final year project was a database diff tool.
+sravanreddyrsm@gmail.com,Sri Venkateshwara University (2013),MBA,IT,05/04/2011,06/04/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+raj.s.ecodedash@gmail.com,Rajamahendri Institute of Engineering & Technology,BTECH,IT,05/04/2011,05/04/2015,FALSE,First class with distinction. Final year project was a database diff tool.
+dibyendu.rakshit@gmail.com,National Institute of Technology Jalandhar ,BTECH,ENTC,05/06/2002,08/12/2006,FALSE,First class with distinction. Final year project was a database diff tool.
+Pradip.wandhekar@gmail.com, Computer Science D.Y. Patil College Akurdi Pune – M.H.,MCA ,IT,08/04/2023,01/06/2006,FALSE,First class with distinction. Final year project was a database diff tool.
+Sawantpravin128@gmail.com,Mumbai University ,BE,ELT,02/05/2011,01/06/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+Prithvichavan83@gmail.com,MUMBAI HINDI VIDYAPEETH,BA,BAA,04/06/2012,01/06/2009,FALSE,First class with distinction. Final year project was a database diff tool.
+vinjamvamsi1992@gmail.com,MUMBAI HINDI VIDYAPEETH,BA,BAA,06/05/2015,01/07/2009,FALSE,First class with distinction. Final year project was a database diff tool.
+vsantosh.v488@gmail.com,International Institute of Information Technology Pune,MSC,IT,04/05/2007,01/08/2008,FALSE,First class with distinction. Final year project was a database diff tool.
+kaleemullah.7777@gmail.com,Dr. Babasaheb Ambedkar Marathwada University Aurangabad – M.H.                                                        ,MSC,IT,05/04/2011,01/06/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+selvakqa@gmail.com,Anna University,BE,ENTC,05/04/2011,01/06/2014,FALSE,First class with distinction. Final year project was a database diff tool.
+ngautamsdet@gmail.com,Maharishi Dayanand University,BTECH,,05/06/2002,01/06/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+chirag.ali47@gmail.com,University of Mumbai,BE,IT,02/05/2012,01/06/2012,FALSE,First class with distinction. Final year project was a database diff tool.
+samay.thakkar@outlook.com ,SAL Institute of Technology and Engineering Research,BE,CE,02/05/2011,01/06/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+panduranggpailvan@gmail.com,Dr. B.A.Marathwada University,MCA ,IT,04/06/2012,01/06/2013,FALSE,First class with distinction. Final year project was a database diff tool.
+gopalakrishnan.chakkaravarthy@hotmail.com,Prist University,ME,CS,06/05/2015,01/06/2011,FALSE,First class with distinction. Final year project was a database diff tool.
+gopalakrishnan.chakkaravarthy@hotmail.com,Adhiparasakthi Engineering College,BTECH,IT,04/05/2007,01/06/2009,FALSE,First class with distinction. Final year project was a database diff tool.
+shubhams930215@gmail.com,MDU,BTECH,,05/04/2011,06/05/2015,FALSE,
+jagriti.magento@gmail.com,RKGIT Ghaziabad Uttar Pradesh,MCA,IT,05/04/2011,05/06/2016,FALSE,
+rajesh9205k@gmail.com,Indian Institue of Technology Roorkee,BTECH,BCE,05/06/2002,06/06/2013,FALSE,
+vaibhavbangar28@gmail.com,JSPM JTC College Tathawade Pune,MCA,IT,02/05/2012,06/06/2016,FALSE,Distinction
+samay.thakkar@outlook.com,SAL Institute of Technology and Engineering Research,BE,CS,02/05/2011,06/06/2013,FALSE,
+setiya.hitesh@gmail.com,Guru Nanak Institute of Technology  Ambala,BTECH,CS,04/06/2012,06/06/2018,FALSE,
+tejas.p@goldeneagle.ai,Goa College of Engineering,BE,,06/05/2015,06/06/2017,FALSE,
+vidish1@gmail.com,Gujarat Technological University.,BE,IT,04/05/2007,06/06/2011,FALSE,
+rajeshawariravindra@gmail.com,CIT - (VTU University) ,BE,,05/04/2011,06/06/2010,FALSE,
+ahmad@elsner.in,Gujarat Technological University.,BE,CS,05/04/2011,06/06/2017,FALSE,
+krishn.tushar@gmail.com,AKTU,BTECH,ENTC,05/06/2002,06/06/2016,FALSE,
+sumeet@teaminnovatics.com,Goa College of Engineering,BTECH,IT,02/05/2012,01/01/2019,FALSE,
+prathamesh.kulkarni@salorix.in, KJ Somaiya Institute of management studies and research Mumbai university ,MCA,IT,02/05/2011,06/06/2011,FALSE,
+bhaveshbhuva108@gmail.com,Goa College of Engineering,MSC,IT ,04/06/2012,06/06/2014,FALSE,

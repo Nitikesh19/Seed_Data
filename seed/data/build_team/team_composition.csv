@@ -1,0 +1,5 @@
+name,role,required_resource,is_full_time,is_role_custom
+Titan,BACKEND_DEVELOPER,5,True,False
+Titan,FRONTEND_DEVELOPER,2,False,False
+Code Talkers,FULL_STACK_JAVA_REACT,3,False,False
+Project Hanks,FULL_STACK_DOTNET_REACT,4,True,False

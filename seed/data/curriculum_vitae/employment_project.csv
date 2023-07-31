@@ -1,0 +1,800 @@
+account_email,employment_company_name,name,start_date,end_date,currently_working,description,roles_and_responsibilities,technologies_used
+amol@drc.com,Informatica,iWeb-Sprint,01/06/2009,01/06/2010,False,"Asurion, LLC is a privately held company that provides device  protection and support services for smart phones, tablets,  consumer electronics, appliances, satellite receivers and jewellery. iWeb Sprint is a Claims Management System, which manages  claims for Sprint consumers for different product lines such as  TEP, TEPPLUS and ESRP
+","Worked on developing responsive and dynamic app which will  add component to display on spa page. Involved in all phases of the life cycle of the project including  requirement study, design, development, and deployment and  testing","AngularJS, HTML5, CSS3, Java, Tibco Services"
+amol@drc.com,Informatica,UCP Advisor Deployment Manager,01/06/2010,01/06/2011,False,"Hitachi UCP Advisor management and orchestration software lets IT move applications and workloads between data centers, UCP systems and solutions. It also lowers risk and enables rapid delivery of new services. Day zero automation eliminates hundreds of tasks for faster deployments.
+","Involved in all phases of the life cycle of the project including  requirement study, design, development, and deployment and testing. Designed the entire Architecture of a web-based solution. Involved in LOE estimation. Designed and Developed web based app using Angular. Desined the unit test architecture for TDD approach.","Angular6, React JS, Redux, HTML5, CSS3"
+amol@drc.com,Google,Enterprise Partner Connect (EPC),01/06/2011,,False,"PC is a platform built for partners in Mortgage Industry to build different applications like Credit Report Generation, Title and  Closing reports, 4506T Reports and many other mortgage related reports requests.",Coordinated with business analysts for any spec modifications  related to the defect or enhancement. Involved in Architecture Designing of a web-based solution. Development activities for the enhancements and defects. Performed Unit testing of the developed code. Involved in peer code review activities ,"Angular JS 1.6, JavaScript, HTML, CSS"
+ajit@drc.com,ABC Corporation,Jane Smith,01/06/2019,15/03/2022,FALSE,Served as a marketing specialist responsible for...,"Created and managed social media marketing campaigns, analyzed campaign performance, generated marketing reports","Google Analytics, Facebook Ads Manager, Hootsuite"
+ajit@drc.com,ABC Corporation,David Williams,10/09/2017,01/06/2019,FALSE,"Worked as a systems administrator, maintaining and securing company's IT infrastructure.","Managed network infrastructure, implemented security measures, provided technical support to end-users","Windows Server, Linux, Active Directory, Cisco networking equipment"
+ajit@drc.com,XYZ Solutions,Sarah Jones,20/08/2014,08/09/2017,FALSE,Worked as a project manager overseeing multiple projects,"Led project teams, developed project plans, monitored project progress, communicated with stakeholders, ensured timely delivery of projects","Agile methodology, Microsoft Project, JIRA, Microsoft Excel"
+arya@drc.com,Marketing Inc.,Mark Thompson,10/04/2019,31/05/2023,FALSE,Served as a financial analyst providing insights,"Conducted financial analysis, prepared reports, performed budgeting and forecasting, identified cost-saving opportunities, collaborated with cross-functional teams","Excel, SQL, Tableau, Bloomberg Terminal"
+arya@drc.com,Marketing Inc.,Emily Wilson,15/01/2017,08/04/2019,FALSE,Currently working as a software developer,"Developing and maintaining software applications, participating in code reviews, collaborating with the development team, troubleshooting and debugging software issues","Python, JavaScript, React, PostgreSQL"
+arya@drc.com,Global Corp,Alex Walker,10/06/2016,12/01/2017,FALSE,Worked as a sales representative,"Prospected and acquired new clients, managed customer relationships, conducted sales presentations, achieved sales targets","CRM software, Microsoft Excel, PowerPoint"
+kirti@drc.com,Sales Unlimited,Lisa Anderson,05/01/2019,15/03/2023,FALSE,Served as a human resources manager,"Oversaw recruitment and onboarding, managed employee relations, administered HR policies, conducted training and development programs","HRIS systems, Performance management tools, Employee engagement platforms"
+kirti@drc.com,Creative Studio,Robert Turner,20/03/2018,02/01/2019,FALSE,Currently working as a software engineer,"Developing and maintaining software applications, collaborating with the development team, conducting code reviews, troubleshooting and debugging software issues","Java, C++, Spring, MySQL"
+kirti@drc.com,Creative Studio,Jennifer Lewis,15/11/2016,18/03/2018,FALSE,Worked as a marketing manager,"Developed marketing strategies, managed marketing campaigns, conducted market research, analyzed campaign performance","Google Ads, Marketo, SEO tools, Adobe Creative Suite"
+amol@cloud.co.in,HR Solutions,Michael Clark,01/08/2019,31/12/2022,FALSE,Served as a project coordinator,"Assisted project managers, tracked project progress, prepared project documentation, facilitated communication between team members","Project management software, Microsoft Office suite"
+amol@cloud.co.in,Finance Corp,Laura Baker,05/04/2018,30/07/2019,FALSE,Worked as a UX/UI designer,"Designed user interfaces, conducted user research, created wireframes and prototypes, collaborated with development teams","Sketch, Adobe XD, InVision, Figma"
+amol@cloud.co.in,HR Solutions,Matthew Rodriguez,10/07/2016,03/04/2018,FALSE,Currently working as a data analyst,"Analyzed and interpreted data, generated reports and insights, identified trends and patterns, developed data visualizations","SQL, Python, Excel, Tableau"
+ajit@cloud.co.in,Tech Innovators,John Senna,20/12/2017,30/06/2021,TRUE,Served as a customer support representative,"Resolved customer inquiries, provided product assistance, processed customer orders, maintained customer satisfaction","CRM software, Helpdesk ticketing systems, Communication tools"
+ajit@cloud.co.in,Customer Care Inc.,William Hall,15/09/2014,30/11/2016,FALSE,Worked as a business analyst,"Conducted requirements gathering, performed data analysis, prepared business process documentation, collaborated with stakeholders","UML, SQL, Microsoft Visio, JIRA"
+arya@cloud.co.in,Marketing Maven,  ,05/11/2018,31/12/2021,FALSE,Worked as a systems analyst,"Analyzed system requirements, designed and implemented software solutions, conducted system testing and troubleshooting","Java, SQL, UML, Linux"
+arya@cloud.co.in,Operations Pro,Sophia Roberts,15/06/2019,04/11/2018,FALSE,Currently working as a graphic designer,"Designed graphics and visual elements, created branding materials, collaborated with clients and creative teams","Adobe Creative Suite, Canva"
+arya@cloud.co.in,Marketing Maven,Ethan Wright,10/08/2018,31/05/2019,FALSE,Worked as a financial controller,"Oversaw financial operations, prepared financial statements, managed budgeting and forecasting, ensured compliance with regulatory requirements","Excel, QuickBooks, SAP"
+kirti@cloud.co.in,Data Insights,Chloe Murphy,05/01/2020,12/06/2023,FALSE,Currently working as a software tester,"Conducted software testing, developed test plans and cases, identified and reported software defects, collaborated with the development team","Selenium, JUnit, Bug tracking tools"
+kirti@cloud.co.in,Software Solutions,James Rogers,01/07/2017,30/09/2021,FALSE,Worked as a supply chain manager,"Managed inventory and procurement processes, coordinated logistics, optimized supply chain efficiency","ERP systems, Supply chain management tools"
+kirti@cloud.co.in,Software Solutions,Mia Perez,20/12/2021,30/06/2022,FALSE,Served as a social media manager,"Developed and executed social media strategies, managed social media accounts, monitored social media metrics","Hootsuite, Google Analytics, Facebook Business Manager"
+john@abc.com,Sales Success,Jacob Carter,01/09/2019,28/02/2020,FALSE,Worked as a software support specialist,"Provided technical support to customers, resolved software issues, documented support tickets, delivered training to end-users","CRM software, Helpdesk ticketing systems, Remote support tools"
+john@abc.com,Design Studio,Ava Gray,10/04/2020,12/06/2021,FALSE,Currently working as a business development manager,"Identified and pursued new business opportunities, built and maintained client relationships, negotiated contracts and agreements","Salesforce, Microsoft Office suite, CRM software"
+john@abc.com,Sales Success,Noah Richardson,15/10/2022,31/12/2022,FALSE,Worked as a network administrator,"Managed network infrastructure, implemented security measures, performed network troubleshooting and maintenance","Cisco networking equipment, Firewall technologies, Network monitoring tools"
+jane@abc.com,Biz Solutions,Mia Ward,10/11/2018,31/10/2019,FALSE,Served as a marketing coordinator,"Assisted in marketing campaign planning and execution, conducted market research, managed social media accounts","Google Ads, MailChimp, Adobe Photoshop"
+jane@abc.com,Content Creators,Lucas Cooper,05/12/2019,12/06/2020,FALSE,Currently working as a data scientist,"Analyzing large datasets, developing machine learning models, extracting insights from data, collaborating with cross-functional teams","Python, R, TensorFlow, Tableau"
+jane@abc.com,Biz Solutions,Harper Ramirez,15/02/2021,31/05/2021,FALSE,Worked as a customer success manager,"Managed customer relationships, ensured customer satisfaction, resolved customer issues, provided product training and support","CRM software, Customer success platforms, Communication tools"
+mark@abc.com,Tech Solutions,Logan Peterson,10/08/2019,12/06/2020,FALSE,Worked as a front-end developer,"Developed and maintained user interfaces, collaborated with the design team, implemented responsive web designs","HTML, CSS, JavaScript, React"
+mark@abc.com,Operations Pro,Mia Cooper,01/07/2020,30/04/2021,FALSE,Currently working as a marketing specialist,"Created and executed marketing campaigns, managed social media presence, analyzed campaign performance","Google Ads, Google Analytics, Social media management tools"
+mark@abc.com,Tech Solutions,Ethan Price,05/01/2022,30/09/2022,FALSE,Served as a software quality assurance analyst,"Developed test plans and cases, executed software testing, identified and reported software defects, collaborated with the development team","TestRail, JIRA, Selenium"
+emily@abc.com,Success Solutions,Olivia Long,20/12/2017,15/03/2018,FALSE,Worked as a financial analyst,"Performed financial analysis, prepared financial reports, conducted budgeting and forecasting, provided financial recommendations","Excel, SQL, Financial modeling software"
+emily@abc.com,Project Inc.,William Nelson,15/09/2018,12/06/2021,FALSE,Currently working as a software architect,"Designed software architecture, provided technical guidance and leadership, collaborated with development teams, evaluated and implemented new technologies","Java, C#, .NET, AWS"
+emily@abc.com,Success Solutions,Sophia Hughes,10/04/2022,30/06/2022,FALSE,Worked as a UX researcher,"Conducted user research, gathered user insights, created user personas and journey maps, collaborated with UX/UI designers","User interviews, Usability testing tools, Data analysis software"
+riya@xyzcorp.com,Web Services,Liam Myers,01/08/2018,12/06/2019,FALSE,Worked as a business intelligence analyst,"Extracted and analyzed data, created reports and dashboards, identified trends and patterns, provided data-driven insights","SQL, Power BI, Tableau, Excel"
+riya@xyzcorp.com,Finance Management,Emily Bell,15/01/2020,12/06/2022,FALSE,Currently working as a social media coordinator,"Managed social media accounts, created and scheduled content, monitored social media metrics","Hootsuite, Buffer, Canva"
+riya@xyzcorp.com,Web Services,Daniel Turner,15/11/2022,28/02/2023,FALSE,Worked as a software implementation consultant,"Implemented and configured software solutions, provided training and support to clients, conducted system testing and troubleshooting","CRM software, Project management tools, ERP systems"
+rohan@xyzcorp.com,Research Labs,Mia Brooks,20/08/2019,12/06/2020,FALSE,Served as a product manager,"Managed product development lifecycle, conducted market research, defined product roadmap and strategy, collaborated with cross-functional teams","Agile methodology, Product management tools, Market research software"
+rohan@xyzcorp.com,Social Buzz,Lucas Stewart,01/06/2021,31/10/2022,FALSE,Worked as a software engineer,"Developed and maintained software applications, participated in code reviews, conducted software testing and debugging","Python, JavaScript, Django, PostgreSQL"
+rohan@xyzcorp.com,Research Labs,Emma Lopez,20/11/2022,12/06/2023,FALSE,Currently working as a UX/UI designer,"Designed user interfaces, created wireframes and prototypes, collaborated with development teams, conducted usability testing","Sketch, Figma, Adobe XD, InVision"
+sam@xyzcorp.com,Admin Solutions,Noah Sanchez,15/08/2017,30/09/2018,FALSE,Worked as a business analyst,"Gathered and documented business requirements, performed data analysis, prepared functional specifications, collaborated with stakeholders","SQL, UML, Microsoft Visio, JIRA"
+sam@xyzcorp.com,User Insights,Mia Robinson,10/01/2019,31/03/2020,FALSE,Served as a customer success manager,"Managed customer relationships, ensured customer satisfaction, provided product training and support, resolved customer issues","CRM software, Helpdesk ticketing systems, Communication tools"
+sam@xyzcorp.com,Admin Solutions,Lucas Brooks,01/06/2020,12/06/2023,FALSE,Currently working as a software tester,"Conducted software testing, developed test plans and cases, identified and reported software defects, collaborated with the development team","Selenium, JUnit, Bug tracking tools"
+mia@xyzcorp.com,Tech Solutions,Mia James,05/12/2017,31/12/2018,FALSE,Worked as a marketing coordinator,"Assisted in marketing campaign planning and execution, conducted market research, managed social media accounts","Google Ads, MailChimp, Adobe Photoshop"
+mia@xyzcorp.com,Sales Excellence,Ethan Rogers,01/09/2019,12/06/2020,FALSE,Served as a data analyst,"Analyzed and interpreted data, generated reports and insights, identified trends and patterns, collaborated with cross-functional teams","SQL, Python, Excel, Tableau"
+mia@xyzcorp.com,Sales Excellence,Olivia Stewart,15/02/2021,31/05/2021,FALSE,Worked as a project manager,"Managed project scope, timeline, and resources, coordinated project activities, communicated with stakeholders","Project management software, Microsoft Office suite"
+sunil@efgsolutions.com,Content Creators,William Evans,10/06/2019,12/06/2020,FALSE,Worked as a software support specialist,"Provided technical support to customers, resolved software issues, documented support tickets, delivered training to end-users","CRM software, Helpdesk ticketing systems, Remote support tools"
+sunil@efgsolutions.com,QA Solutions,Sophia Brown,01/10/2018,31/03/2022,FALSE,Served as a business development manager,"Identified and pursued new business opportunities, built and maintained client relationships, negotiated contracts and agreements","Salesforce, Microsoft Office suite, CRM software"
+sunil@efgsolutions.com,Content Creators,Logan Hughes,15/07/2022,30/09/2022,FALSE,Worked as a network administrator,"Managed network infrastructure, implemented security measures, performed network troubleshooting and maintenance","Cisco networking equipment, Firewall technologies, Network monitoring tools"
+priya@efgsolutions.com,Data Innovators,Mia Morgan,10/09/2018,12/06/2019,FALSE,Currently working as a social media manager,"Developed and executed social media strategies, managed social media accounts, monitored social media metrics","Hootsuite, Google Analytics, Facebook Business Manager"
+priya@efgsolutions.com,Data Innovators,Ethan Bell,01/02/2020,31/03/2021,FALSE,Currently working as a software engineer,"Developing and maintaining software applications, collaborating with the development team, conducting code reviews, troubleshooting and debugging software issues","Java, C++, Spring, MySQL"
+priya@efgsolutions.com,HR Solutions,Olivia Gonzalez,15/10/2021,28/02/2022,FALSE,Worked as a systems analyst,"Analyzed system requirements, designed and implemented software solutions, conducted system testing and troubleshooting","Java, SQL, UML, Linux"
+rahul@efgsolutions.com,System Solutions,Sophia Ward,05/10/2019,28/02/2021,FALSE,Currently working as a data analyst,"Analyzed and interpreted data, generated reports and insights, identified trends and patterns, developed data visualizations","SQL, Python, Excel, Tableau"
+rahul@efgsolutions.com,Events Unlimited,Logan Ramirez,20/07/2022,30/05/2023,TRUE,Served as a customer support representative,"Resolved customer inquiries, provided product assistance, processed customer orders, maintained customer satisfaction","CRM software, Helpdesk ticketing systems, Communication tools"
+nisha@efgsolutions.com,Design Studio,Mia Foster,01/01/2019,30/09/2020,FALSE,Worked as a content writer,"Created and edited content for various platforms, conducted research, ensured content quality and consistency","WordPress, SEO tools, Grammarly"
+nisha@efgsolutions.com,Business Growth Inc.,Ethan Long,15/04/2021,12/06/2022,FALSE,Worked as a financial analyst,"Performed financial analysis, prepared financial reports, conducted budgeting and forecasting, provided financial recommendations","Excel, SQL, Financial modeling software"
+nisha@efgsolutions.com,Design Studio,Olivia Reed,10/11/2022,12/06/2023,FALSE,Currently working as a software quality assurance analyst,"Developed test plans and cases, executed software testing, identified and reported software defects, collaborated with the development team","TestRail, JIRA, Selenium"
+aanya@pqrsolutions.com,Tech Solutions,William Parker,15/03/2019,30/06/2020,FALSE,Worked as a marketing specialist,"Created and executed marketing campaigns, managed social media presence, analyzed campaign performance","Google Ads, Google Analytics, Social media management tools"
+aanya@pqrsolutions.com,Tech Support Ltd.,Sophia Turner,10/06/2021,12/06/2022,FALSE,Served as a software engineer,"Developed and maintained software applications, participated in code reviews, conducted software testing and debugging","Python, Java, C++, Git"
+aanya@pqrsolutions.com,Tech Support Ltd.,Logan Collins,01/09/2022,31/05/2023,FALSE,Worked as a business analyst,"Gathered and documented business requirements, performed data analysis, prepared functional specifications, collaborated with stakeholders","SQL, UML, Microsoft Visio, JIRA"
+piyush@pqrsolutions.com,Content Creators,Mia Hill,20/04/2018,12/06/2019,FALSE,Currently working as a project manager,"Managed project scope, timeline, and resources, coordinated project activities, communicated with stakeholders","Project management software, Microsoft Office suite"
+piyush@pqrsolutions.com,QA Solutions,Ethan Wood,15/07/2019,30/09/2022,FALSE,Worked as a software support specialist,"Provided technical support to customers, resolved software issues, documented support tickets, delivered training to end-users","CRM software, Helpdesk ticketing systems, Remote support tools"
+piyush@pqrsolutions.com,Content Creators,Olivia Green,01/06/2020,12/06/2023,FALSE,Worked as a network administrator,"Managed network infrastructure, implemented security measures, performed network troubleshooting and maintenance","Cisco networking equipment, Firewall technologies, Network monitoring tools"
+neha@pqrsolutions.com,HR Solutions,William James,01/08/2017,30/09/2018,FALSE,Served as a business development manager,"Identified and pursued new business opportunities, built and maintained client relationships, negotiated contracts and agreements","Salesforce, Microsoft Office suite, CRM software"
+neha@pqrsolutions.com,HR Solutions,Sophia Rodriguez,05/01/2020,12/06/2021,FALSE,Worked as a UX/UI designer,"Designed user interfaces, conducted user research, created wireframes and prototypes, collaborated with development teams","Sketch, Figma, Adobe XD, InVision"
+neha@pqrsolutions.com,Data Innovators,Logan Hernandez,10/04/2022,31/03/2023,FALSE,Served as a data analyst,"Analyzed and interpreted data, generated reports and insights, identified trends and patterns, collaborated with cross-functional teams","SQL, Python, Excel, Tableau"
+arjun@pqrsolutions.com,System Solutions,Mia Flores,01/03/2019,12/06/2020,FALSE,Worked as a customer success manager,"Managed customer relationships, ensured customer satisfaction, provided product training and support, resolved customer issues","CRM software, Helpdesk ticketing systems, Communication tools"
+arjun@pqrsolutions.com,Events Unlimited,Ethan Cruz,15/08/2020,31/03/2021,TRUE,Currently working as a software engineer,"Developing and maintaining software applications, collaborating with the development team, conducting code reviews, troubleshooting and debugging software issues","Java, C++, Spring, MySQL"
+arjun@lmnservices.com,Design Studio,William Ward,01/07/2018,12/06/2020,FALSE,Served as a UX/UI designer,"Designed user interfaces, conducted user research, created wireframes and prototypes, collaborated with development teams","Sketch, Adobe XD, InVision, Figma"
+arjun@lmnservices.com,Business Growth Inc.,Sophia Ramirez,15/04/2021,28/02/2022,FALSE,Currently working as a data analyst,"Analyzed and interpreted data, generated reports and insights, identified trends and patterns, developed data visualizations","SQL, Python, Excel, Tableau"
+arjun@lmnservices.com,Business Growth Inc.,Logan Foster,01/06/2022,30/05/2023,FALSE,Worked as a customer support representative,"Resolved customer inquiries, provided product assistance, processed customer orders, maintained customer satisfaction","CRM software, Helpdesk ticketing systems, Communication tools"
+priyankfs.net@gmail.com,Click on Tech,Priyank Vadi,08/05/2020,08/04/2023,TRUE,"Development of a platform which displays the details of various UAVs/Drones.
+The platform also has capabilities to apply the image processing algorithms to the live feed received from drones.
+Integrations such as Optical zoom algorithm Object Tracking Object GPS resolving are some of the highlights of this platform",Senior Software Developer                          ,Asp.net SQL Server MVC Web API ReactJS
+priyankfs.net@gmail.com,Click on Tech,Priyank Vadi,08/04/2018,08/04/2020,FALSE,"An ERP platform which captures the lifecycle of the diamond rough to production.
+This platform also manages the accounts wrt the sales of these diamonds.",Team Lead,ASP.net Windows Application C# SQL ServerHTML CSS
+priyankfs.net@gmail.com,Coruscate Solution Pvt. Ltd.,Priyank Vadi,08/04/2016,08/03/2018,FALSE,This is a US-based Hospital management system. On which they provide a solution to their patient and also manage doctor’s details and provide services at patient home.,Senior Software Engineer,Asp.net SQL Server MVC Web Service Web API AngularJS JQuery Ajax
+priyankfs.net@gmail.com,Coruscate Solution Pvt. Ltd.,Priyank Vadi,08/02/2014,08/02/2016,FALSE," Development of a SaaS platform for resource management.
+Development of microservice based architecture which manages the attendance leaves payroll grieviences of the employees",Software Engineer,Asp.net SQL Server MVC AngularJS JQuery Ajax
+pravin@upperthrust.com,Upperthrust Technologies,Pravin Rathod                       ,05/05/2021,08/04/2023,TRUE,"Written Shell script to automate the CP4D 3.5 and CP4D 4.0.x Installation. Provisioned the RHEL OpenShift cluster (OCP 4.6 4.7 4.8) for CP4D in AWS IBM and Azure Cloud.
+I have automated the installation of IIS 11.7 and IIS11.5 through Ansible and Terraform. Migrated the Datastage jobs from IIS11.7 to CP4D 3.5 with the help of MettleCI DevOps Tool and Jenkins.",Sr. DevOps Engineer,Spring-boot Core-Java AuroraDB Python 3.7.
+pravin@upperthrust.com,Vishwakarma Global Education Services India Pvt. Ltd.,Pravin Rathod                       ,01/12/2019,04/05/2021,FALSE,Designed a cloud infrastructure for below mentioned products and webapps Easycheck EasyProctor.,Sr. Cloud Solution Architect,Core Java MySQL Netty jUnit EhCache
+jalad.jhamb@giitian.com,GIIT Solutions,Jalad Jhamb,05/04/2019,08/04/2023,TRUE,The job is to configure the CI/CD pipeline so that any change committed in the  github repository will reflect in the S3 bucket with immediate effect and CI/CD  with EKS and ECS.  Configure alert and monitor service for development and production  environments. Configure EKS logs going to cloud watch in both environments  Refactor Dev env to have one VPC just like production environment.,"Cloud Engineer
+
+ Create s3 bucket with publicly accessible permission.
+● Build project using the github as the source provider so that any change  committed in the github repository will reflect in the s3 bucket.
+● Updating the build to deploy artifacts in the s3 bucket.
+● This process is repeated for the both dev and prod environment.
+● The alerting and monitoring was configured by using cloud watch to  send notification by chat bot and mail.
+● Enabled the logs for EKS service.
+● Migrated all the services to a single VPC in the dev environment.
+● CI/CD configuration for EKS.                ",AWS GitHub Cloud9
+jalad.jhamb@giitian.com,GIIT Solutions,Jalad Jhamb,05/04/2019,08/04/2023,TRUE,This project was to configure the pipelines set up the Route53 cloudfront   cloudformation stacks KMS keys Cloudwatch AWS Chatboat Lambda  Functions S3 buckets AWS config SSO ALB SNS SES in their AWS  environment.  ,"Cloud Engineer
+
+Create s3 bucket with publicly accessible permission.
+● Build project using the github as the source provider so that any change  committed in the github repository will reflect in the s3 bucket.
+● Updating the build to deploy artifacts in the s3 bucket.
+● This process is repeated for the both dev and prod environment.
+● The alerting and monitoring was configured by using cloud watch to  send notification by chat bot and mail.
+● Enabled the logs for EKS service.
+● Migrated all the services to a single VPC in the dev environment.
+● CI/CD configuration for EKS.           ",AWS Github and CodeCommit
+jalad.jhamb@giitian.com,GIIT Solutions,Jalad Jhamb,05/04/2019,08/04/2023,TRUE,This project is to configure the .net application pipeline and other pipeline which need to deploy the ECR images to ECR repository and deploy it to  ECS Cluster. Work on the AWS services like Route53 CloudFront cloud formation stacks KMS keys Cloudwatch AWS Chatbot Lambda  Functions S3 buckets AWS configuration ALB SNS SES  S3,"Cloud Engineer
+
+Configure the pipeline in Bitbucket.
+● Configure the Route53 for different websites and tenants.
+● Configure the Cloudfront for the different tenants and attatching the ALB as  origin source.
+● Configure ECS with the ALB and change the listener configurations.
+● Configuring the Cloudformation stack by writing the required Templates.
+● Troubleshoot on the Roles Policies Lambda API gateway ECR  Permission and many more services of AWS.
+● VPC configurations for Different AWS Environment with certain VPC  Endpoints.  ",AWS Bitbucket AWS CDK
+ashishpsharma9@gmail.com,Patch Infotech Pvt. Ltd.,Aashish Kumar Sharma,09/05/2020,08/04/2023,TRUE,TAMM’s portal provides its customers whether UAE citizens residents visitors or investors with a comprehensive range of government services through one single point of access at any time and place. Using TAMM’s portal customers can have direct access to information without having to visit each and every government entity. The Project/Service I worked for are Education Department Of Health (DOH) Community(ADEK ACTVET) Housing and Construction(ADHA). The technology used are Typescript in both frontend(ReactJs) and backend(NodeJs) using REST APIs for internal and external Api services. There was a special tool called Workbench for creating frontend pages with predefined html components the process flow of each service is controlled by camunda BPMN workflow diagrams.,"Senior Software Developber
+
+",React(TypeScript) Node.js Camunda MySQL
+ashishpsharma9@gmail.com,Societe Generale GSC,Aashish Kumar Sharma,01/05/2019,08/04/2020,FALSE,As a part of this project DORAUI was a user friendly interface that was created to expose all the APIs that was there in the organization. This was created with dual mode ability to provide user an option with two types of authorization that was used by APIs. It provides the features like admin control Catalog to organise APIs (Decommissioning Client creating object storage using an API etc) Report Page to show the execution of individual APIs (hits success backend error client error etc) pictorial representation using graphs.,Full Stack Developer ,React(TypeScript) Node.js Camunda MySQL
+ashishpsharma9@gmail.com,Societe Generale GSC,Aashish Kumar Sharma,01/05/2019,08/04/2020,FALSE,As part of this project GMC offers proactive alerts/solution to users about the servers status every morning on the basis of the parameters defined by server owners. This project mainly focuses on collecting data from thousands of servers across four regions (PARIS AMERICA EUROPE ASIA) and three platforms (UNIX WINDOWS CLOUD) and then test whether that server is up and running as expected or not . If not generate a log along with issues details and send a mail to the owner about the issue and list of solutions (provided by owner) that can be used to overcome the problem.,Full Stack Developer ,React(TypeScript) Node.js Camunda MySQL
+shajra1988@gmail.com,Citicorp Services India Pvt Ltd,Saubhik Hajra,03/05/2012,08/04/2023,TRUE,"• Worked as a senior developer to Analysing and estimating requirements from clients while providing effective solutions to develop new features in the application that deals with handling all the contacts across clients at a central location. This provides reduced duplication of data and controlling a contact’s information centrally.
+• Responsible for developing end to end flow of APIs Angular UI Components to build new features in the existing application framework.
+• Responsible for writing ad-hoc Mongo scripts to load or fetch contact data for reporting in case of any request from Client.
+• Responsible for creating Low level and High level design documents of the application along with writing efficient automated unit test cases to ensure the maximum code coverage.
+• Responsible for supporting and maintaining the developed application within an IT system to ensure the stability.
+• Mentoring the Junior developer helping developer and senior developers code reviewing and code merge activity.",Lead DotNet Developer and Analyst,Angular 8 ASP.net core Mongo DB PowerShell Nunit and MoQ test framework.
+shajra1988@gmail.com,FIS Solutions(India) Pvt Ltd,Saubhik Hajra,09/05/2021,03/03/2021,FALSE,"• Worked as a senior developer to automate Loan Originations System of the bank which is a web based application that has a workflow of the loan origination process.
+• Responsible working on the developing WebAPI Services Batch utilities to load or send data designing the workflows which will be used by the CLO application from where bank user can initiate and organize the loan approval process on behalf of a corporate or retail client.
+• Responsible for creating Low level and High level design documents of the application.
+• Responsible for driving customer meetings to manage the requirements completing the technical design breakdown requirement etc. and follow through.
+• Mentoring the Junior developer helping developer and senior developers code reviewing and code merge activity.
+• Defining task and subtask in Jira defined time estimation of task and assigned to developers",Senior Lead Consultant,.Net Core 2.0 Web API .Net (C#) MVC 5.0 Angular REST jQuery JavaScript
+shajra1988@gmail.com,Tata Consultancy Services,Saubhik Hajra,03/05/2012,09/05/2019,FALSE,"• Worked as an onshore developer to migrate an application which was developed in DotNet framework 2.0 to DotNet framework 4.5 and to move the application from windows server 2003 to windows server 2012.
+• Responsible for enhancing the applications and also re-developing the functionalities that are not compatible with the new framework.
+• Responsible for analysis and setup the IIS settings for the new DotNet framework and the new windows server.
+• Creation and enhance of necessary tables and mapping of the tables on database along with required Stored Procedures for the migration.
+• Enhancing the security setup of the application from Form based authentication to windows authentication to align with CBA standard.
+• Design of Test Cases and functional and unit testing.
+• Responsible for creating Low level and High level design documents of the application.",I.T.Analyst, ASP.Net 4.5 SQL Server 2012 JavaScript.
+sravanreddyrsm@gmail.com,KPMG Pvt Ltd,K Sravan Kumar Reddy,09/05/2020,08/04/2023,TRUE,TAMM’s portal provides its customers whether UAE citizens residents visitors or investors with a comprehensive range of government services through one single point of access at any time and place. Using TAMM’s portal customers can have direct access to information without having to visit each and every government entity. The Project/Service I worked for are Education Department Of Health (DOH) Community(ADEK ACTVET) Housing and Construction(ADHA). The technology used are Typescript in both frontend(ReactJs) and backend(NodeJs) using REST APIs for internal and external Api services. There was a special tool called Workbench for creating frontend pages with predefined html components the process flow of each service is controlled by camunda BPMN workflow diagrams.,"Power BI Developer
+ Gathering requirement from stakeholders and translating business requirements into meaningful KPIs with help of Business Analyst.
+• Worked on Data Modelling Implemented Star schema & Snowflake schema.
+•  Implemented Incremental Load to improve Load Time.
+•  Created different types of sheet objects like List boxes Buttons
+•  Created various kinds of visualization using Tableau such as Charts Tabular chart &      Conditional Formatting.
+•  Implemented the Incremental load and involved in the Performance tuning.
+•  Developed Linked Tables Concatenation and solved the loops issues.
+•  Performed the Application deployment activities completed 2 production release.
+•  Worked on Service now tool for Production Support Activities.
+•  Tested Applications ensuring the application met the requirements Data quality for Quality Assurance before delivering to the end users.""                                                        ",Power BI SQL SERVER SSIS SSRS
+raj.s.ecodedash@gmail.com,Ecode Dash,Vinkayala Veera Raja Shekhar ,08/05/2021,08/04/2023,TRUE,"
+Plants is an online plant retailer web application. It is built on ReactJs and NextJs to support SEO and improve user experience. Developed the application from scratch and was responsible for main modules and performance.",Senior Software Engineer,Power BI SQL SERVER SSIS SSRS
+dibyendu.rakshit@gmail.com,Eka Software Solution Pvt. Ltd.,Dibyendu Rakshit,07/05/2006,05/08/2010,FALSE,"1. Core member of Product engineering team hence responsible for improving application performance and working on urgent requirements for the demonstration of product to the client.
+2. Designing screens independently as per functional specification in Jsp Java Struts EJB and Oracle.
+3. Writing Jsp custom tags.
+4. Writing complex sql queries.
+5.Writing complex pl/sql procedures and functions.
+6. Designing tables and views as per requirement.","Senior Software Engineer
+Core member of Product engineering team hence responsible for improving application performance and working on urgent requirements for the demonstration of product to the client.
+ Designing screens independently as per functional specification in Jsp Java Struts EJB and Oracle.
+3. Writing Jsp custom tags.
+4. Writing complex sql queries.
+5.Writing complex pl/sql procedures and functions.
+6. Designing tables and views as per requirement.",Core Java 1.6 JSP Struts 2.3 Spring Hibernate MySql Angular js  Tomcat 7Aerospike Mac-OS
+dibyendu.rakshit@gmail.com,Oracle India Pvt. Ltd.,Dibyendu Rakshit,06/08/2010,10/06/2011,FALSE,"
+1. Involved in application customization Development for entire life i.e. designs development Unit Testing Bug fixing.
+2. Major and minor bug fixing for existing products.
+3. Peer code review for newly built customized code.
+4. Writing API methods as well as in java and back end API
+5. Unit testing bug fixing and enhancement.""                                                        ","Application Engineer
+
+1. Involved in application customization Development for entire life i.e. designs development Unit Testing Bug fixing.
+2. Major and minor bug fixing for existing products.
+3. Peer code review for newly built customized code.
+4. Writing API methods as well as in java and back end API
+5. Unit testing bug fixing and enhancement.""                                                        ",Core Java Oracle Application frame Work Oracle JDeveloper 10g Oracle 10g (SQL/plsql) Unix
+Pradip.wandhekar@gmail.com,Persistent Systems Ltd,Pradip Wandhekar		,01/08/2014,08/04/2023,TRUE,SAE offers the capability of virtualizing your network edge and extending it to colocation centers. SAE provides segmentation virtualization automation and orchestration for your enterprise within a carrier-neutral facility.,"Team Lead                                                                                                                                            • API Automation using selenium and Python
+• Handling team of 5
+• Review of work deliverable
+• Responsible for Offshore development and Automation
+• Delegating tasks on the project to employees best positioned to complete them
+• Making effective decisions when presented with multiple options for how to progress with the project
+• Serving as a point of contact for teams when multiple units are assigned", Selenium Web Driver Python PyATS
+Pradip.wandhekar@gmail.com,Persistent Systems Ltd,Pradip Wandhekar		,01/09/2014,08/04/2023,TRUE,Point AR device at end IoT Device (e.g. Robot) Show relevant Device Network Security Cybervision network protocol data and metadata Edge Intelligence machine telemetry.,"• API Automation using selenium and Python
+• Handling team of 4
+• Review of work deliverable
+• Responsible for Offshore development and Automation
+• Delegating tasks on the project to employees best positioned to complete them
+• Making effective decisions when presented with multiple options for how to progress with the project
+• Serving as a point of contact for teams when multiple units are assigned.",Unity Python
+Pradip.wandhekar@gmail.com,Persistent Systems Ltd,Pradip Wandhekar		,01/10/2014,08/04/2023,TRUE,"Meraki Retail Analytics the business analytics solution which is built using data received from sources; Cisco Meraki MV-12 Artificial intelligence enabled camera and the POS terminal. This application provides Number of visitors buyers people who go through the checkout process Alert on Smart lighting and temperature control utilizing people detection Live and historical analytics of the visitor patterns.
+Prediction of visitor patterns Queue wait times depending on the predicted visitors.
+History of customer abandonment and Alarm on weapon detection.","• Explored and used ML library like TensorFlow Yolo 4 for machine learning to build and deploy ML powered applications.
+• API Automation testing (REST) using Python request library.
+• Manual Testing (Test case execution towards Functional web (GUI) regression browser compatibility and database testing)
+• Brainstorming about the use case development in CISCO Devnet.
+• Estimation and tracking use case tasks.
+• Client Demos.",Linux NodeJS Angular and Python Postman PostgreSQL.
+Pradip.wandhekar@gmail.com,Persistent Systems Ltd,Pradip Wandhekar		,01/11/2014,08/04/2023,TRUE,Empirix IntelliSight is a software solution specifically designed to quickly provide holistic business intelligence for telecom service providers operating in both fixed and mobile domains. The IntelliSight Data mediation Component (ISDM) is a core component of the platform and is powered by a data mediation and intelligence engine designed to scale and adapt to the growth and ongoing changes in an operator’s environment without needing customized development. Key Features: Data Correlation and Intelligence Key Performance Indicators (KPIs) and Alarming Data Export and Integration with Northbound Applications Flexible Service Modeling to Ease Drilldowns Single Subscriber Dashboard analytics Near Real Time Dashboards that present near real-time KPI status and alarms as frequently as every minute.,"• UI Automation testing using Selenium Python using Unitest framework.
+• Executing Smoke Test Regression Testing Participated in analysis and design walkthroughs as well as project meetings.
+• Test case creation and Planning.
+• Writing automation scripts using Selenium Web driver in Python unittest framework using page object model. Tomcat.
+• Following Agile methiodal Sprint Planning User story grooming Scrum Meeting Retrospective meeting.
+• Database testing.
+• Set-up test environments Hadoop cloud era developed test strategy test plan test cases test suits scenarios test data & requirement traceability matrix.
+• Coordinated with business users to understand various required data sources.
+• Managed defect lifecycle including defect creation defect tracking and root cause analysis of defects.
+• Drove the quality processes through all phases of the Software Development Life Cycle using Agile methodology.",Linux-SLES Java Python Hadoop Caldera Jira Jenkins Python unitest MySQL.
+Pradip.wandhekar@gmail.com,IGATE,Pradip Wandhekar		,01/01/2014,01/08/2014,FALSE,Mine automation program is emerging with various autonomous systems like Drill Automation Smart Charging Trucks Ship/ Train Loaders etc. to be controlled remotely. This operational model demands for live video and real time digital parametric displays as support systems in the remote-control room for their health status and control. All these systems would be part of the mine network involving Wireless LAN and WAN. Emergency Safety Shutdown System is developed and will be commissioned at the mine site. It provides functionality of manual safety Emergency shutdown and auto fail-safe shutdown by providing diagnostic of failures of different components and network.,"• Creating maintaining and executing test cases for Functional Testing.
+• Lab environment Setup.
+• Bug Tracking and reporting using Jira.
+• Preparing testing artifacts like Test Plan Validation Plan as per Functional safety standard IEC61508.
+• Review of the Documents like Functional Safety Plan Functional Life cycle process SRS document etc.",PLC Program C++ and Linux.
+Pradip.wandhekar@gmail.com,TalentBeat Ltd,Pradip Wandhekar		,01/02/2006,01/03/2008,FALSE,SmartLMS is product devolved to meet requirements of logistics management system in global market. It automates all process involved in logistics management such as purchase order ship order shipment tariff quotations bill of lading etc.,"• Creating maintaining executing and updating test cases.
+• Manual Testing (Test case execution towards Functional web (GUI) regression browser compatibility and database testing)
+• Bug Tracking and reporting using Quality Center 9.2 and 11.0.
+• Participating in client meetings for understanding and analyzing the requirements Testing Functional testing Multiple OS testing Multiple browser testing.
+• Raising and verifying fixed defects with every build and track the same to closure.",Java Oracle Tomcat
+Pradip.wandhekar@gmail.com,TalentBeat Ltd,Pradip Wandhekar		,01/03/2006,01/04/2008,FALSE,Empower is web-based application developed for SYMMEDRx organization working in health care domain. SYMMEDRx has developed an eleven step self-contracting model that empowers the materials managers of the hospitals to effectively negotiate with the suppliers to purchase physician preferred products.,"• Creating maintaining executing and updating test cases.
+• Manual Testing (Test case execution towards Functional web (GUI) regression browser compatibility and database testing)
+• Bug Tracking and reporting using Quality Center 9.2 and 11.0.
+• Participating in client meetings for understanding and analyzing the requirements Testing Functional testing Multiple OS testing Multiple browser testing.
+• Raising and verifying fixed defects with every build and track the same to closure.",.Net MSSQL
+Sawantpravin128@gmail.com,Dzaro Solutions,Pravin Sawant,01/10/2019,08/04/2023,TRUE,VATConnect Integrations automatically captures data and images from expense management systems payment/ERP systems corporate cards hotel groups and travel management companies (TMC’s) to quickly get a view of your total spend and your VAT reclaim opportunity. VATConnect Intelligence reviews and validates all data via our industry leading AI machine learning algorithms and automatically applies the relevant VAT rules and regulations for each country.,"Lead DotNet Developer                                                                                                             • Architecture Design.
+• Code development & Enhancements Bug fixing Deployment Documentation.
+• Working as Individual Contributor to design develop and deploy microservices as per requirement.
+• Responsible for helping the onshore team in authoring the Business rules and developments of the rules in system.
+• Executing test scenarios and fixing bugs.",HTML ASP.NET ASP.NET Core Web Service Web API Angular C C# Javascript SQL
+Sawantpravin128@gmail.com,Morgan Stanley Capital International,Pravin Sawant,01/01/2019,01/08/2019,FALSE,"
+CE Baseline help tool developed for Deloitte professionals for practice before giving actual CE assessment exam. It tool used by more than 5000 professionals on daily basis.","• Code development & Enhancements.
+• Bug fixing
+• Deployment
+• Documentation ", C# WPF Desktop WCF Multithreading SVN
+Sawantpravin128@gmail.com,Deloitte Consulting,Pravin Sawant,01/01/2017,01/01/2019,FALSE,Kentucky Health Benefit Exchange is developed as a Deloitte go-to market solution to help implement an Integrated Eligibility Solution covering all the welfare programs administered by the state. The portal will act as a one-stop-shop for everyone applying for benefits in the state. It will also enable the state to administer the programs in an effective way.,"• Code development & Enhancements Bug fixing Deployment Documentation.
+• Involved in development of complex and critical WCF application working as a team member.
+• Responsible for helping the onshore team in authoring the Business rules and developments of the rules in Corticon.
+• Creating SQL batches for project.
+• Writing stored procedures in SQL.
+• Executing test scenarios and fixing bugs.",C# .Net Core Dapper MS-SQL Server 2012 WCF Entity Framework Progress Corticon TFS.
+Sawantpravin128@gmail.com,National Stock Exchange,Pravin Sawant,01/02/2015,01/01/2017,FALSE,NCDEX (National Commodity and Derivative Exchange) is an online commodity exchange based in India. NCFE is clearing front end of NCDEX. It handles real time trade information. NCFE simplifies and helps the member to easily carry out their complete clearing and settlement activity online.,"• Code development & Enhancements.
+• Bug fixing
+• Deployment
+• Documentation ",ASP.NET MVC 4.5 with C# JQuery JavaScript Web Service Oracle 11g 12c.
+Sawantpravin128@gmail.com,National Stock Exchange,Pravin Sawant,01/03/2015,01/02/2017,FALSE,"NCDEX disseminates its real time market data to information agencies. The N-Tick Provides information agencies with NCDEX real time market data in TCP/IP packet SOAP format. The information agencies connect to the N-Tick through 64 Kbps Leased Lines. These leased lines are terminated on N-Tick and their data specific calls are forwarded to N-Tick through firewall. The N-Tick listens on a Port Continuously for agency connections and accepts these calls and creates a socket. The TCP/IP data flows to the information agencies through these sockets.
+Data can also available on web service using SOAP format.","• Code development & Enhancements.
+• Bug fixing
+• Deployment
+• Documentation                                                         ",C# Client-Server Architecture Desktop  Socket Programming WCF MS SQL.
+Sawantpravin128@gmail.com,Dzaro Solutions,Pravin Sawant,01/01/2014,01/02/2015,FALSE,This application provides every trader with the power to automatically track important market movements and analyze the market in real-time and offers advanced charting and comprehensive technical analysis tools. Application works on live data Process by different server which in turn receives data from lease line provided by National Stock Exchange. This application is real time where you can see each up and down of stocks.,"• Involved in development of complex and critical desktop application working as a team member.
+• Major role in development of basic architecture of front end.
+• Understanding and processing Real time data coming from Different Exchanges [NSE BSE etc.].
+• Design and development of various forms in the solution of the project.
+• Worked on Charts and Drawing part.
+• Executing test scenarios and fixing bugs.
+• Worked on Performance and Memory related issues.", C# Real Time Data Desktop WinForms Windows Data structures Multithreading.
+Prithvichavan83@gmail.com,Dzaro Solutions,Prithviraj Chavan,01/01/2020,08/04/2023,TRUE,,"Lead Devops Engineer                                                                                                                                • Currently working as Lead for DevOps team.
+• Working on CI/CD automation devops toolkit management Azure GCP and AWS related infrastructure management and automation on cloud native technologies as requested by business.
+• This involves working with various project teams helping them in their development efforts with automation of CI/CD pipeline Creating and implementing Environment Scaling and collaborating towards continuous deployments/testing to various stages of development to Production.
+• We have a strict goal to achieve Infrastructure as Code. I have personally contributed a lot in source control for our various projects that include scripting various auto deployment config management using terraform / CloudFormation /Helm charts Ansible and PowerShell DSE Jenkins's file-based Pipeline.
+• Work on .NET web app API and services deployment to server or containers using Octopus and harness in various environments. My current role also has a lot of Operations related tasks.
+• Creating monitoring and performance measurement for deployed LOB systems.
+• Work with various monitoring tools such as New Relic APM Datadog Site24x7 Kibana Splunk PagerDuty so operations team can be alerted for any issue before having customer impact.
+• Working with compliance team to remediate vulnerability maintaining automation around patch management and reporting for PCI system. ",Asp.Net Azure AWS GCP Jenkins Docker Kubernetes Linux
+Prithvichavan83@gmail.com,AIS,Prithviraj Chavan,01/03/2016,01/12/2019,FALSE,,"• Working on infrastructure automation like F5 load balancer configuration automation SAN Provisioning automation Software deployment automation.
+• ESXi Hyper-V Host OS and VM build automation using various tools like SCORCH SCVMM SCCM MDT PowerShell vSphere Auto Deploy and implementing similar automation on Azure platform.
+• Developing Server lockdown and achieving desired state using automation with help of PowerShell Desired State Configuration and Puppet.
+• Creation and implementation of highly available services using automatic scaling model and application sets in SCVMM and Azure. This includes web deployment Database server provisioning automation using PowerShell.
+• Working with Microsoft consultant as primary contact for client’s System Center 2016 and Server 2016 Technology Adoption Program and Rapid Deployment Program.
+• Have developed framework for year 2016- 2017 to implement these technologies. Completed working on automation scripts to action this framework.
+• Worked on project to get Windows Server Nano 2016 as Hyper-V 2012 R2 host replacement to reduce security footprint.",
+Prithvichavan83@gmail.com,Systems Plus Solutions,Prithviraj Chavan,01/07/2012,01/04/2015,FALSE,Working with Achilles client on site providing datacenter support. Primary responsibility includes maintaining 240 physical server 8 SAN devices Cisco SonicWALL and Palo Alto network devices. Working as primary for project on infrastructure designing and on-site implementation. Creating support structure and processes for offshore team handling escalations. Providing on call and on-site assistance along with final line support on technology like Active directory Exchange SQL Servers vSphere and various in-house hosted applications. ,"• Implementing SCCM 2012 globally with 1800 desktop and 480 servers as clients. Created Windows 7 Windows 2008R2 and Windows Server 2012 COE ZTI images various software packages for deployment.
+• Created 2 private cloud on Hyper-V 2012 SCVMM 2012 and ESXi 5.5 vCenter including setting up EMC SAN and networking. Migrated old virtual server ESX 3 4 and P2V and created monitoring in SCOM 2012 Nagios integrated with ticketing tool.
+• Design and implemented client’s main application infrastructure on COLO in London and Singapore on vSphere F5 Load balancer LTM and Akamai CDN along with monitoring and automated performance notification system.
+• Designed and implemented the central call monitoring and recording solution of 28 corporate branches by using Tim Enterprise Software.
+• Implemented SharePoint 2013 farm and migrated sites from older versions. Migrated global file shares to SharePoint. Implementing advance workflows. InfoPath form for HR and internal departments.
+• Worked on a global network project involving redesigning networks MPLS and procuring new devices to replace unsupported devices at all branch offices.",
+Prithvichavan83@gmail.com,IBM,Prithviraj Chavan,01/01/2010,01/08/2010,FALSE,,"• Working as NOC engineer supporting backbone network for leading ISP.
+• Maintaining core routers troubleshooting routing issues firmware maintenance monitoring and escalating to on site team for cable or device repair. Logging calls with vendor for vendor provided circuits.
+• Capacity planning for network and presenting utilization reports using CA spectrum and IBM internal products like Tivoli network manager.",
+Prithvichavan83@gmail.com,MIBS,Prithviraj Chavan,01/05/2008,01/08/2009,FALSE,,"• Responsible for Installation Managing and maintaining Server and Desktop.
+• Daily Backup of Servers and SQL Database on tapes. SQL Performance Tuning. Maintaining and troubleshooting Computer Hardware Printers and Scanners. Managing Firewall and Campus Wi-Fi.
+• Student and Staff user ID creation. Managing Share and access permission.
+• Intranet Email and Portal administration.
+• Maintaining Library management software and barcode equipment.
+• Symantec Endpoint Protection. ",
+vinjamvamsi1992@gmail.com,Deltacubes Technologies,Vinjam Vamshikrishna		,01/09/2021,08/04/2023,TRUE,,,.Net core Jenkins Docker Kubernetes Linux
+vinjamvamsi1992@gmail.com,Wipro,Vinjam Vamshikrishna		,01/02/2021,01/09/2021,FALSE,,"Security Devops Engineer                                                                                                                •Working on infrastructure automation like F5 load balancer configuration automation SAN Provisioning automation Software deployment automation.
+• ESXi Hyper-V Host OS and VM build automation using various tools like SCORCH SCVMM SCCM MDT PowerShell vSphere Auto Deploy and implementing similar automation on Azure platform.
+• Developing Server lockdown and achieving desired state using automation with help of PowerShell Desired State Configuration and Puppet.
+• Creation and implementation of highly available services using automatic scaling model and application sets in SCVMM and Azure. This includes web deployment Database server provisioning automation using PowerShell.
+• Working with Microsoft consultant as primary contact for client’s System Center 2016 and Server 2016 Technology Adoption Program and Rapid Deployment Program.
+• Have developed framework for year 2016- 2017 to implement these technologies. Completed working on automation scripts to action this framework.
+• Worked on project to get Windows Server Nano 2016 as Hyper-V 2012 R2 host replacement to reduce security footprint.",
+vinjamvamsi1992@gmail.com,Wipro,Vinjam Vamshikrishna,01/04/2015,01/12/2015,FALSE,,"• Responsible for the design build configuration and implementation of new or existing technologies in specialist areas of: Storage/SAN Windows Hyper-V & HA Clustering Active Directory Systems Centre and/or Backup/Restore/Replication technology.
+• This will be underpinned by a strong understanding and use of Virtual Network technologies alongside a principal understanding of Network Fabric VPN SSL WAN Load Balancing and Firewalls.
+• Responsible for scoping and delivering SOW for bespoke functionality at an infrastructure level (this includes anything that is not covered with the standard service description).
+• Upon acceptance by the business that we wish to deliver such functionality the team will be responsible for delivery and documenting the bespoke nature of the solution for IT Operations and escalated support.",
+vinjamvamsi1992@gmail.com,Deltacubes Technologies,Vinjam Vamshikrishna		,01/07/2012,01/04/2015,FALSE,Working with Achilles client on site providing datacenter support. Primary responsibility includes maintaining 240 physical server 8 SAN devices Cisco SonicWALL and Palo Alto network devices. Working as primary for project on infrastructure designing and on-site implementation. Creating support structure and processes for offshore team handling escalations. Providing on call and on-site assistance along with final line support on technology like Active directory Exchange SQL Servers vSphere and various in-house hosted applications. ,"• Implementing SCCM 2012 globally with 1800 desktop and 480 servers as clients. Created Windows 7 Windows 2008R2 and Windows Server 2012 COE ZTI images various software packages for deployment.
+• Created 2 private cloud on Hyper-V 2012 SCVMM 2012 and ESXi 5.5 vCenter including setting up EMC SAN and networking. Migrated old virtual server ESX 3 4 and P2V and created monitoring in SCOM 2012 Nagios integrated with ticketing tool.
+• Design and implemented client’s main application infrastructure on COLO in London and Singapore on vSphere F5 Load balancer LTM and Akamai CDN along with monitoring and automated performance notification system.
+• Designed and implemented the central call monitoring and recording solution of 28 corporate branches by using Tim Enterprise Software.
+• Implemented SharePoint 2013 farm and migrated sites from older versions. Migrated global file shares to SharePoint. Implementing advance workflows. InfoPath form for HR and internal departments.
+• Worked on a global network project involving redesigning networks MPLS and procuring new devices to replace unsupported devices at all branch offices.",
+vinjamvamsi1992@gmail.com,Deltacubes Technologies,Vinjam Vamshikrishna		,01/09/2010,01/03/2012,FALSE,,"• Supporting Windows Server Cluster VMware vSphere Active Directory EMC Legato and CommVault Backup Symantec Endpoint Protection SCOM 2007 SCCM 2007.
+• Working with SAP Basis SQL DBA GIS Raymark POS-Terminal SharePoint Web and other teams on Installation Production Readiness Installation of application and Setting up High Availability Solutions Provisioning Request fulfillment Access Management System Maintenance and Troubleshooting Performance Patching Decommission processes.",
+vinjamvamsi1992@gmail.com,Deltacubes Technologies,Vinjam Vamshikrishna		,01/01/2010,01/08/2010,FALSE,,"• Working as NOC engineer supporting backbone network for leading ISP.
+• Maintaining core routers troubleshooting routing issues firmware maintenance monitoring and escalating to on site team for cable or device repair. Logging calls with vendor for vendor provided circuits.
+• Capacity planning for network and presenting utilization reports using CA spectrum and IBM internal products like Tivoli network manager.",
+vinjamvamsi1992@gmail.com,Wipro,Vinjam Vamshikrishna		,01/05/2008,01/08/2009,FALSE,,"• Responsible for Installation Managing and maintaining Server and Desktop.
+• Daily Backup of Servers and SQL Database on tapes. SQL Performance Tuning. Maintaining and troubleshooting Computer Hardware Printers and Scanners. Managing Firewall and Campus Wi-Fi.
+• Student and Staff user ID creation. Managing Share and access permission.
+• Intranet Email and Portal administration.
+• Maintaining Library management software and barcode equipment.
+• Symantec Endpoint Protection. ",
+vsantosh.v488@gmail.com,Dzaro Solutions,Vunikili Santosh Kumar                ,01/06/2021,08/04/2023,TRUE,"• Worked as Lead for Network and DevOps team on CI/CD automation devops toolkit management GCP and AWS related infrastructure management and automation on cloud native technologies as requested by business.
+• This involves working with various project teams helping them in their development efforts with automation of CI/CD pipeline Creating and implementing Environment Scaling and collaborating towards continuous deployments/testing to various stages of development to Production. At NCR the goal is to archive Infrastructure as Code.
+• Contributed a lot in source control for our various project that include scripting various auto deployment config management using terraform / CloudFormation Ansible Kubernetes Github Jenkins file-based pipeline and services deployment to server or containers using Octopus and harness in various environment.
+• Created monitoring and performance measurement using various monitoring tools such as Datadog Site24x7 ELK Splunk PagerDuty so operations team can be alerted for any issue before having customer impact.",Lead Devops Engineer,PythonGithub GitlabCI AWS GCP Octopus Deploy Helm Charts Teamcity Artifactory Nagios OpenNMS New Relic APM Datadog Kibana Splunk Site24*7.
+kaleemullah.7777@gmail.com,JMK Infosoft Solution Ltd,Mirza Kaleemullah Biag		,01/06/2021,08/04/2023,TRUE,"
+""• This Project is designed and develop in ASP.NET(MVC) C#.NET. Database used in this project is SQL SERVER 2016 .
+• The main purpose of this project to maintain document on server or cloud if document requires approval then we have approval and
+reviewers on the same document. If approver approves the document its comes to effect.
+• Worked on issue document reconcile archive destroy document and controlled print.
+• Issue document person need print of document number of pages page from page to. If issue documment has approval on it then it goes for approval. Then approver approves it then person can take print of document.
+• Issue document has association like ar number batch number etc.
+• While print document overlays print on it like issue copy and association.
+• Archival document is when person need document to archive for particular date from date to date.
+• Finally destroy the document if the user cannot destroy the issue document and Print it.""                                                        ",Senior Software Engineer,"ASP.NET (Web forms MVC)HTML XML CSS Javascript Ajax.
+"
+kaleemullah.7777@gmail.com,Misbah Soft Solution,Mirza Kaleemullah Biag		,04/04/2018,03/03/2021,FALSE,"• Designed and developed in ASP.NET (MVC) C#.NET and Database used is firebase (Realtime database).
+• The main purpose of this project gets event information from all booths of Aurangabad district.
+• Event like officer arrive on booth Polling start Count of male female other etc. Officer enter data into event step by step.
+• Report generation collector and divisional commissioner check each event report district wise and taluka wise.
+• The main thing in this project I have used firebase(Realtime database) because of number of hits on website event is on same
+time for all booths all officer at same time hits on website.
+• Used firebase (Realtime database) inserted Json data using http post got information using Json and displayed reports on admin dashboard using C#.
+• Generated APK for android app used webview and shared our website link with officers to help them download apk from google
+play store.
+",Software Engineer,
+selvakqa@gmail.com,Dzaro Solutions,Selvakumar Srinivasan		,01/10/2021,08/04/2023,TRUE,"• Developing new Test Automation framework using Selenium and  C#.
+• Fixing the failing tests developed in the Protractor framework and sharing the status with the leads.
+• Creating documentation and architecture for the new automation framework and getting it reviewed by the QA Architect.
+• Providing technical solutions to issues faced by the sub teams.
+• Contributing to the continuous improvement of the QA process.
+• Helping and mentoring fellow Test Engineers within the Automation domain.",Lead SDET,Selenium UFT TOSCA WinAppDriver RestSharp RestAssured CA
+selvakqa@gmail.com,Sureify,Selvakumar Srinivasan		,08/08/2020,09/09/2021,FALSE,"• Adding tests to existing Test Automation framework working alongside fellow Test Engineers to ensure that just the right tests are automated.
+• Evaluating tools and processes to help maintain and improve the automation tests and frameworks to ensure time spent doing manual regression is kept to a minimum.
+• Working closely with a team of developers to cover the testing needs of new features and enhancements.
+• Creating documentation and reports for test results and defect trends; analyzing data and making recommendations to management.",Lead SDET Engineer,
+ngautamsdet@gmail.com,Dzaro Solutions,Nitin Gautam,01/12/2021,08/04/2023,TRUE,● Team building training and handling internal project,Senior QA Engineer,Java SOAP BDD Framework Cucumber Maven Rest Assured Agile Methodologies
+ngautamsdet@gmail.com,NTT Data,Nitin Gautam,07/07/2019,11/11/2021,FALSE,"TRS - Always on the leading edge of Automotive technology BMW is constantly introducing innovation that change the way it deliver services to end customer. One such innovation is TeleServices.
+TeleService uses the sensor technology of onboard computers to notify the customer’s preferred BMW service center when their vehicle requires routine services. There are different types of transactions created in TeleServices with which any center will lead on a routine basis on the automatic service request and the manual service requests.",Senior Test Engineer ,SQL Java Selenium WebDriver BDD Cucumber
+ngautamsdet@gmail.com,Centurylink Technologies,Nitin Gautam,10/10/2016,07/07/2019,FALSE,Salesforce (CPQ) - The quoting platform used to configure price and quote products and services for BSG and CTS groups. It ensures quick and smooth products on-boarding for business teams Provides a robust pre-qualification framework that arms the sales user with meaningful information to proceed with doing business with a given set of locations provides a strong suite of services for various CPQ processes and tools to uniformly access consistent data.,Software Engineer,SQL Java Selenium WebDriver BDD Cucumber
+ngautamsdet@gmail.com,Nerdapplabs Private Limited,Nitin Gautam,04/04/2015,10/10/2016,FALSE,"Sugar is a web based business application which delivers the best all around value of any CRM. Designed with the individual in mind Sugar offers the most innovative and intuitive user experience on the market – SugarUX. With Sugar UX’s Modern and immersive interface every customer-facing employee can effectively engage with customers every time thanks to a consistence Sugar experience regardless of your access point or device. Embedded collaboration tools help break down departmental silos and increase engagement and service levels. And best of all Sugar provides contextual intelligence from internal and external data sources - all within a single dashboard to drive more actionable insights for every user.
+With Sugar the innovative user experience is not limited to out of the box features. The power of SugarCRM Mobile enables user to create highly intuitive customer mobile experience-from anywhere.",Software Test Engineer ,SQL Java Selenium WebDriver
+ngautamsdet@gmail.com,iAvatarZ Digital India as Quality Engineer,Nitin Gautam,09/09/2013,03/03/2015,FALSE,Vulcan Express Private Limited is a logistics firm that offers end-to- end logistics and supply chain solutions for retail companies with greater focus on highly dynamic and rapidly growing ecommerce industry in India. It offers a range of services including Pickup Consolidation and Fulfilment Operations Warehousing Solutions Intercity Movement and Last Mile Delivery services.,Quality Engineer,Environment: Xml SQL Testing
+chirag.ali47@gmail.com,Calidad,Chirag Ali Palsania		,01/06/2021,08/04/2023,TRUE,"● Creating and maintaining test scripts using Selenium Web driver.
+● Worked on BDD cucumber framework in Java.
+● Integrated the result with QMetry Test management tool.
+● Developing BDD scripts with Cucumber in Selenium WebDriver.
+● Maintained the Selenium & JAVA automation code in Git Repository.
+● Involved in all the scrum related functions.
+● Managing the code on git repository.",Senior Automation Tester 					,Functional Automation Testing tools: Selenium Web driver Basic knowledge of AppiumJavaPython
+chirag.ali47@gmail.com,S&P Global,Chirag Ali Palsania		,07/07/2019,06/06/2021,FALSE,"Creating and maintaining test scripts using Selenium Webdriver.
+● Responsible for planning process evaluation design development and maintenance of test scripts using the framework and nhancements against newly added requirements.
+● Designing scenarios on the basis of shift left approach with API using Python.
+● Automating Rest Assured APIs using python.
+● Creating the BVT cases of APIs using python framework.
+● Involved in all the scrum related functions.
+● Managing the code on git repository.
+● Working on VSTS for project management.",SDET II ,
+chirag.ali47@gmail.com,KiwiQA Services,Chirag Ali Palsania		,08/08/2018,06/06/2019,FALSE,"Handling the team of Size 3.
+● Preparing the Automation Test Plan based on the requirement.
+● Setting up an automation framework as per client requirements.
+● Enhancing the framework for reusability.
+● Configuring Maven and TestNG for Java automation projects.
+● Performance testing using JMeter.
+● Preparing the Test Automation script for the test case provided by the clients.
+● Automating Web Application Testing using Selenium.
+● Updating the status of the automation script in the confluence page.
+● Executing Selenium Test Cases and reporting defects.
+● Reporting the bug in Jira if encountered any.
+● Configuring the Jenkins for scheduling the script and auto email update.
+● Committing the code in the bitbucket git repository.
+● Participating in the weekly status review meetings with stakeholders to discuss the upcoming work schedules and status.",Automation Tester,
+chirag.ali47@gmail.com,Accelya Kale Solutions,Chirag Ali Palsania		,05/05/2015,08/08/2018,FALSE,"Working on airline domain for revenue accounting products used for revenue assessment by various airlines.
+● Requirement Analysis by understanding the functionality through requirement specification and business flows provided by the Client.
+● Worked in a highly dynamic AGILE environment and participated in scrum and sprint meetings
+● Working on change requests made by clients using Agile methodology.
+● Involvement in Preparation of Test Scenarios Test Cases and Test Data.
+● Involvement in Test Execution Results Analysing and Defect Reporting.
+● Performed Re-testing and Regression testing after issue/defect is resolved.
+● Regression testing performed on every new build of the application.
+● Automating Web Application Testing using Selenium WebDriver.
+● Implemented automation using Selenium WebDriver JAVA
+● Well versed with Handling Elements in Selenium WebDriver.
+● Writing Test cases using Element locators WebDriver methods Java programming features.
+● Executing Selenium Test Cases and reporting defects.
+● Writing SQL queries for test data.",Senior Software Tester,
+chirag.ali47@gmail.com,Calidad,Samay Thakkar,01/02/2021,08/04/2023,TRUE,"● Creating test stergies for organizations with a goal to increase the quality of processes and product.
+● Creating test automation framework tailored as per application requirements.
+● Creating automation suites on Java over Selenium using TestNg Cucumber and Junit.
+● Creating automation suites on Python over Selenium using Pyest Pytest-bdd and Robot Framework.
+● Creating automation suites on Javascript and Typescript over WebdriverIO Cypress and Protractor.",QA Consultant,Expertise in Selenium Webdriver automation using TestNG and Robot FrameworksPythonJava
+panduranggpailvan@gmail.com,Dreamz Software Solutions Pvt Ltd,Pandurang Pailvan,01/12/2021,08/04/2023,TRUE,"● Manage creation
+● Manage storage
+● Manage retrieval
+● Manage control security and distribution
+● OCR capture""                ",Senior Software Engineer,C#.NET ASP.NET Core MVC 5.0 Web Service Web API
+panduranggpailvan@gmail.com,"Wolters Kluwer Perpetuuiti Technosoft",Pandurang Pailvan,04/04/2019,11/11/2021,FALSE,"Integration of Incident management tool i.e.Gemini.
+● Integration with Azure DevOps.
+● Used Hangfire as Message queue service.
+● Used Apache solr (search engine) for project for fast retrieval of data.
+● Used Web Api to expose rest Api endpoints to other teams.
+● Worked windows services.
+● Used power shell for build deployment automation.
+● Used content management system i.e Vasont. ",Software Developer,C#.NET MVC5 REST API
+panduranggpailvan@gmail.com,Perpetuuiti Technosoft,Pandurang Pailvan,07/07/2014,3/3/2019,FALSE,"● Integration of Incident management tool i.e. BMC remedy Service Now Service Desk plus.
+● Integration of AI (NLP and Machine Learning) with this product.
+● Successful implementation of the project at Smart Dubai Government DUBAI (UAE).
+● Used Web Api in the project.
+● UI and windows services.
+● Used power shell and SSH for automation. ",Software Developer, C#.NET ASP.NET MVC5
+gopalakrishnan.chakkaravarthy@hotmail.com,Deltacubes Technologies Pvt Ltd,Gopalakrishnan Chakkaravarthy                                                                        ,01/07/2018,08/04/2023,TRUE,"• Individual contributor to develop native windows app to communicate from Angular using socket to work on files seamlessly.
+• Contributed developing reusable complex UI controls in Angular 10.x (Example: Query Builder Svg Diagram viewer search box...Etc).
+• Debugging legacy C++ COM layer to fix bugs.
+• Core member as part of technical recruitment.",Lead Software Engineer,Net Core 3.x Angular 11 Web Api and COM Api
+gopalakrishnan.chakkaravarthy@hotmail.com,BNY Mellon Technology Pvt Ltd,Gopalakrishnan Chakkaravarthy                                                                        ,09/04/2014,06/05/2018,FALSE,Hedge Mark is a specialist in the structuring oversight and risk monitoring of hedge fund investments. Hedge Mark risk view is the platform where the investor can view the risk and return reports of the investments by fund/portfolio over different stats. This application allows user to customize the layout of the view in dynamic manner with lot of flexibility and they can drag and drop the views and save changes to load next time for better user experience.,"Technical Leader
+
+• Mentored junior developers on .Net MVC Angular Js JavaScript Web Application Development and Services.
+• Developed a SSIS Loaders to project to process 20 GB of Bloomberg market information sent as back off subscription.
+• Saved 25000$ by processing market information with cached data.
+• Maintained sole-ownership of 3 modules - Surveillance Risk View and HM AP NEXEN API.
+• Resolved critical bugs in the product to improve performance and help customers to Go Live.
+• Interviewed prospective employees and mentored junior software developers on the team.
+• Provided training to fresher’s on .Net angular Js and other technologies.",Net MVC 4 C# RabbitMQ Web API Angular Js Jquery and Azure
+gopalakrishnan.chakkaravarthy@hotmail.com,Technosoft Global Services Pvt Ltd,Gopalakrishnan Chakkaravarthy                                                                        ,03/03/2012,08/08/2014,FALSE,Summit health highest rated provider of on-site wellness programs for health screenings immunizations coaching and educational seminars. We have developed a system called APEX where the PHI information is processed to and from LAB and other screening locations. As a developer working on APEX system taking roles to handle the following modules of subcontractors Agency Program Management Onsite Data Entry RTDC and all mobile applications. Taking care of UI design for change request and engaged in production support to the client whenever required.,"Senior Software Engineer
+• Involved in creating all the services for entire mobile apps for summit health.
+• Created three portals for data entry and participant registrations for screening.
+• Involved in Object creation (Tables SP’s Functions and Views) and tuning in back end.",Asp.net 3.5 C# Ajax 4.0 Crystal Reports WCF SQL Server 2008 R2 SQL Server 2012
+gopalakrishnan.chakkaravarthy@hotmail.com,InterPro Global Services Pvt Ltd,Gopalakrishnan Chakkaravarthy                                                                        ,01/01/2011,12/12/2011,FALSE,This system provides the functionality to make full and final settlement process of exited employee in an organization as automation. The exited employee can view their status and collect letters and other information by login into the system. Full and final settlement process of the system includes retirals gratuity superannuation provident fund PF pension F&F statement and downloading letters.,"Senior Programmer
+ Responsible for the development of new application from scratch and to support legacy applications developed in Visual Basics.",Asp.net 3.5 C# Ajax 4.0 SQL Server 2008
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developed a web application from scratch for managing communication in case of emergency events or disasters for the USA market which was developed using .NET framework(MVC and Web Api) and Jquery MVC using Entity Framework.",.NET frameworkJquery
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developing a web application with key role of automated staffing /hiring for the Australian market. It was developed using the .NET framework (Web Api and MVC5) and Entity Framework and JQuery for the front end. ",.NET framework (Web Api and MVC5) and Entity Framework and JQuery
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developing a web application which has key role of handling payments and commissions for European countries customers. It was developed using .NET framework (MVC5 and Web Api) using Entity Framework and JQuery for front end.",.NET framework (Web Api and MVC5) and Entity Framework and JQuery
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developing a web application which runs the training module for the Security agencies in airport and metro station across the world. It was developed using express JS and JQuery.",JS and JQuery.
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developing a Web portal and api for flight booking for the agents across international markets. It was developed using .NET framework(MVC and Web Api) Redis cache Angular JS.",.NET framework(MVC and Web Api) Redis cache Angular JS.
+shubhams930215@gmail.com,Tech Q Ware Technologies Pvt Ltd,Shubham Sharma,05/04/2015,08/04/2023,TRUE,,"Sr. Software Engineer
+
+Developing a web application which creates contracts for the b2b agent market. It was developed using .NET core 3.1 for micro services Azure for deploying application into kubernetes Kafka Angular 6 for front end and Mongo DB.",.NET core 3.1 Azurekubernetes Kafka Angular 6Mongo DB.
+jagriti.magento@gmail.com,Bluethink It Consulting Pvt. Ltd.,Jagriti Gupta,08/05/2020,08/04/2023,TRUE,I worked at this website as a senior Magento Developer. I have worked on this website for the France location with PwC Belgium Team. This website was developed for both B2B and B2C bothE-commerce. Bridgestone in a short stint of 20 years in India has grown to tremendous heights. It has become one of the major suppliers to almost all the reputed Original Equipment manufacturing (OEM) companies in India. Quality has always been a premium at Bridgestone and the strict standards followed are certified by the worlds leading authority in quality certifications.,Magento Developer,Technologies: PHP Magento 2.x Elastic Search MySQL JavaScript HTML CSSGithub Phpstorm Jira Bitbucket
+jagriti.magento@gmail.com,Bluethink It Consulting Pvt. Ltd.,Jagriti Gupta,08/05/2020,08/04/2023,TRUE,Syska is one of the largest lighting luminaries and consumer electronics manufacturers in India. Shop online at competitive prices for premium quality products. In 1989 the SSK Group set up its flagship company Shree Sant Kripa Appliances Pvt. Ltd. Over the last two decades the SSK Groups pursuit of perfection has made the Group a name to reckon with across numerous verticals.,Magento Developer,Technologies: PHP Magento MySQL JavaScript HTML CSS XML AWS Filezilla FTP slack SEO SMO
+jagriti.magento@gmail.com,Bluethink It Consulting Pvt. Ltd.,Jagriti Gupta,08/05/2020,08/04/2023,TRUE,Shop for high-quality outdoor clothing jackets shoes and gear at Columbia Sportswear India. Discover the latest collection of durable and reliable apparel designed for all your outdoor adventures. Based in Portland Oregon Columbia Sportswear is a global outdoor brand that crafts active lifestyle gear fortified with industry-leading technologies and tested in our own backyard. Our apparel footwear and accessories reflect our Pacific Northwest heritage and indomitable spirit.,Magento Developer,Technologies: PHP Magento MySQL JavaScript HTML CSS XML AWS Filezilla FTP slack SEO SMO
+jagriti.magento@gmail.com,Bluethink It Consulting Pvt. Ltd.,Jagriti Gupta,08/05/2020,08/04/2023,TRUE,Camden Tools we pride ourselves on offering a huge selection of over 11000 products including all of the top brands from both the UK and further afield. Plus our experienced customer service team is just a click away if you need any help advice or information. Here at Camden Tools we pride ourselves on offering a huge selection of over 11000 products including all of the top brands from both the UK and further afield. Plus our experienced customer service team is just a click away if you need any help advice or information. We offer free UK shipping on all orders as well as fast dispatch and options for express shipping for those time-sensitive projects and we also deliver all over the world.,Magento Developer,Technologies: PHP Magento SEO SEM SMO PPC Facebooks Ads Instagram Ads Google Business Website Optimization Keywords Research
+jagriti.magento@gmail.com,Go Ads India Pvt. Ltd.,Jagriti Gupta,12/05/2016,07/05/2020,FALSE,FabFashionz.com is a Luxury Online brand for Saris and an Indian ethnic wear brand in Handwoven pure silk saris from the roots of India with ethical business practice for over 45 years now. India has a centuries-old art and craft heritage that includes rich textile weaving traditions as well as surface pattern and embellishment techniques in handloom sarees. They impart a unique look and feel to fabric lengths and Indian handloom traditions involve working intricate designs onto fabric with delicate cotton silk silver and gold metal thread. It was embellished with sequins and precious stones and favored by royalty to evoke a sense of luxury and opulence.,SEO Specialist,Technologies: PHP Magento SEO SEM SMO PPC Facebooks Ads Instagram Ads Google Business Website Optimization Keywords Research
+jagriti.magento@gmail.com,Go Ads India Pvt. Ltd.,Jagriti Gupta,12/05/2016,07/05/2020,FALSE,Bhanwar Rathore Design Studio is a Premier Design Institute in India. Founded in 2005 and having its Head Office in Ahmedabad Gujarat BRDS has grown with a distinct identity of its own. “Bhanwar Rathore Design Studio” has 12 centres in Gujarat. BRDS has emerged as the best Arts Design and Portfolio Consultancy and is guiding over 5000 students every year. The Institute progressed with its first coaching centre in Gurukul (Ahmedabad) and now we have our 4 centres in Ahmedabad (Gurukul Maninagar Bopal Satellite) Vadodara (Race Course Road) Rajkot (Kalawad Road) and Surat (Athwa).,SEO Specialist,Technologies: WordPress JavaScript HTML CSS Ajax jQuery PHP SEO SEM SMO Google Business Website Optimization Keywords Research
+rajesh9205k@gmail.com,VBHC Value Homes Private Ltd Bangalore,Rajesh Kumar Tak,06/06/2013,05/05/2016,FALSE,"Business intelligence to management by integrating all data sources in the organization including ERP CRM MS Project and Excel sheets on Microsoft PowerBI.
+● Developing financial models for business plans Pricing strategy cash flow projections scenario analysis IRR PBT and realizations.
+● Responsible for project feasibility studies market research for product demand sales velocity and price points and coordinating with the design team for concept plan development.
+● Competitor analysis by studying catchment areas to find out major players available products price trends sales history and inventory depletion.",Manager - BI,PowerBI Excel
+rajesh9205k@gmail.com,Viscous Cubes Pvt Ltd Bangalore,Rajesh Kumar Tak,06/06/2016,10/05/2020,FALSE,"
+● Implementing reporting and data analytics solutions for clients
+● Developed data models on Power BI Tableau and QlikView to create reports and dashboards to provide real-time insight for Real Estate companies Construction Private Equity firms and Housing Finance companies.
+● Implementation driving adoption training and support for ClickInsight a PowerBI-embedded web application.
+● Regular meetings with clients to understand requirements and update reports and dashboards accordingly. ", Project Manager & BI Lead,SQL PowerBI MongoDB JIRA Figma Tableu Qlik
+rajesh9205k@gmail.com,Final99 Systems Pvt Ltd.,Rajesh Kumar Tak,11/06/2020,08/04/2023,TRUE,"
+● Construction monitoring and loan disbursement SAAS product for housing finance companies and Banks
+● Data Modelling and reporting on power bi and embedding of the reports in the SaaS platfrom for end clients
+● Maintenance of powerBI data model and reports periodic updates in the model as per changes in the database due to new product features and putting together various reports on a need basis. ",Data Modeller,SQL PowerBI MongoDB JIRA Figma Tableu Qlik
+rajesh9205k@gmail.com,Final99 Systems Pvt Ltd.,Rajesh Kumar Tak,11/06/2020,08/04/2023,TRUE," Android platform for the housing and construction industry
+● Business Insight across the company including marketing cost customer retention platform engagement etc by integrating various sources including – sql db mongo db AppsFlyer Google Adwords Google Analytics CSV files etc sources on PowerBI and developing real-time reports and dashboards.
+● Drive growth of the B2C platform focused on housing Customer acquisition through various marketing channels keeping the CAC in control.
+",Data Modeller,SQL PowerBI MongoDB JIRA Figma Tableu Qlik
+vaibhavbangar28@gmail.com,Diverse Lynx India Pvt Ltd,Vaibhav Ankush Bangar,09/09/2022,08/04/2023,TRUE,"Creates Accounting of different transaction.
+• Money market and Foreign exchange data currency are processed in our bank.
+• Create debit and credit entries of transaction.
+• Creates multicurrency accounting.
+• Generates the FSI number as per the rule.
+• Sends general ledger to higher aothority.","Software Engineer
+
+ Requirement capture and requirements analysis.
+● Worked on designing and implementing ReST Services using Spring Boot.
+● Building service components / complex business logic.
+● Worked on documentation and confluence page maintenance.
+● Daily stand up with the team to discuss tasks and guide them to manage and complete tasks.",JEE Spring Boot Spring Data JPA Microservices   Jenkins Oracle DB
+vaibhavbangar28@gmail.com,Codeft Technologies Pvt Ltd,Vaibhav Ankush Bangar,09/09/2020,09/09/2022,FALSE,Banking is the business of protecting money for others. Banks lend this money generating interest that creates profits for the bank and its customers. A bank is a financial institution licensed to accept deposits and make loans. But they may also perform other financial services.,"Software Engineer
+
+
+● Requirement capture and requirements analysis.
+● Worked on designing and implementing ReST Services using Spring Boot.
+● Building service components / complex business logic.",Intaact Salesforce Plaid Powerfactor AWS Docker Bitbucket pipelines
+vaibhavbangar28@gmail.com,Avirat Infotech,Vaibhav Ankush Bangar,02/02/2017,08/08/2020,FALSE,Maha E-Supply is a online ration supply application. In this application there are 3 modules. Super Admin Admin and User.,"Software Engineer
+
+
+● Requirement capture and requirements analysisWorked on designing and implementing ReST Services using Spring Boot.
+● Building service components / complex business logic.
+● Worked on documentation and confluence page maintenance.
+● Deep debugging and problem solving.",JEE Spring Boot Microservices Spring Data JPA MySQL
+vaibhavbangar28@gmail.com,Avirat Infotech,Vaibhav Ankush Bangar,02/02/2017,08/08/2020,FALSE,In this application convert virtual money to coins.,"Software Engineer
+
+Worked on designing and implementing ReST Services using Spring Boot.
+● Implemented scheduler to call Microsoft Graph using ReST calls to fetch Outlook calendar meetings and OneDrive documents.",Spring Boot MySQL Spring Data JPA.
+vaibhavbangar28@gmail.com,Avirat Infotech,Vaibhav Ankush Bangar,02/02/2017,08/08/2020,FALSE,"
+
+Public Distribution System (PDS) is a national program that distributes subsidized food to the poor population of the country. Major commodities distributed under this system include rice wheat sugar and kerosene these food grains are partly procured from Food Corporation of India (FCI) which is a central body and partly contributed by the state from its own produce. It reaches the end consumers through Fair Price Shop (FPS) spread across the nation. This is the largest distribution network in the world operated with collaborative efforts of Union and State governments in India. AchyutAnjaliSoft is a desktop application .The main purpose of this project is to maintain the whole process of distribution of foods from district to taluka and taluka to village.""							","
+
+Software Engineer
+● Requirements analysis.
+● Responsible for development of code.
+● Solving defects.
+● Documentation of various modules.
+● Maintaining various optimization reports",Core Java Swing MySQL
+chirag.ali47@gmail.com,Calidad,Samay Thakkar,02/02/2021,08/04/2023,TRUE,"
+Restaurant management mobile application for Order confirmation Table reservation Check creation Payment verification on Stripe and Application’s integration with Point Of Sale and Property Management System like cloudbed and oracle.
+Worked on End to End ETL testing of different integration from data collection transformation and globalization.","Senior QA
+
+Manual Testing
+● Checking integration of application with POS and PMS
+● Validating payment confirmation on Stripe using API
+● Attending Sprint Ceremonies",Python with Appium Pytest-BDD Allure Reporting Jenkins AWS browserstack Docker Aloha Toast symphony Omnivore Micros Jira
+chirag.ali47@gmail.com,Calidad,Samay Thakkar,02/02/2021,08/04/2023,TRUE,Levi Strauss Co. is an American clothing company known worldwide for its Levis brand of denim jeans. It was founded in May 1853 when German-Jewish immigrant Levi Strauss moved from Buttenheim Bavaria to San Francisco California to open a West Coast branch of his brothers New York dry goods business,"Senior QA
+
+Manual Testing
+● Creating framework from scratch using pyhton
+● Fetching CSV code and generating updates CSV and comparing both using pyhton
+● Uploading the CSV generated from code to AWS",Intaact Salesforce Plaid Powerfactor AWS Docker Bitbucket pipelines
+samay.thakkar@outlook.com,S&P Global,Samay Thakkar,07/07/2019,01/02/2021,FALSE,"S&P Global Inc. is an American publicly traded corporation headquartered in Manhattan New York City. Its primary areas of business are financial information and analytics.
+",Senior Software Development in Test ,Python Pytest-BDD Apache Airflow ELK stack Snowflake Azure Devops
+samay.thakkar@outlook.com,S&P Global,Samay Thakkar,07/07/2019,01/02/2021,FALSE,Batchservice/Batchleads is ultimate all-in-one prospecting platform. The platform enables real estate investors agents and brokers along with home services and mortgage professions to find more prospects close more deals and maximize revenue.,"Senior Software Development in Test
+
+Creation of automation framework
+● Automation of APIs
+● Writing Manual Test Cases
+● Testing the new features – Regression Sanity Smoke
+● API Testing
+● Validating and fixing test failures.
+● Performance Testing using Jmeter
+● Attending scrums and sprint ceremonies.",Linux Python Pytest Requests Library Databricks Insomnia Postman Mocha Chai with Typescript JMeterJira Docker
+samay.thakkar@outlook.com,S&P Global,Samay Thakkar,07/07/2019,01/02/2021,FALSE,Investment banking services(Confidential),"Senior Software Development in Test
+
+● Automation of Test cases in Java
+● Debugging Tests in QTP
+● Load Testing using Visual Studio",Java TestNg Spring Boot Jira Integration with framework Writing Test cases
+samay.thakkar@outlook.com,Sapient,Samay Thakkar,03/03/2018,04/04/2019,FALSE,"We are among the leaders of mobility solutions providers and cater to over two billion platform users globally. Our technology products enable our customers to increase revenue operate profitably and make a difference.
+
+","Leading QA Backend Team
+●  Managing Jira Tasks for QA
+● Writing manual tests
+● Writing automation tests for API
+● UI Automation
+● Performance scripting and testing Locust.
+● Maintaining CI/CD QA scripts
+● Attending scrums and sprint ceremonies.", Python Jmeter Pytest Locust Jenkins Postman Jira
+samay.thakkar@outlook.com,Hughes Systique Pvt. Ltd,Samay Thakkar,12/12/2017,03/01/2018,FALSE,"
+Building a model in the finance domain and to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimize its business model and revenue. Extracting the meaningful pattern from data to get the key outcomes.
+
+Built to align State Transportation Agencies Industry Partners and Federal Aid Program requirements.","QA Engineer
+
+Responsible for Data processing Data imbalance to balance it we use SMOTE.
+● Responsible for handling missing values and outliers used Statistics Knn imputer.
+● Analysis data using Tableau
+● Checking relationships in tables using SQL
+● Detecting outliers using IQR to handle it we did capping.
+● Responsible for Model building RFGBLR and SVM..
+● working with pandas numpy sklearn matplotlib seaborn etc
+● Good in Model validation like AUC ROC MSE MAE F1_Score precision recall",
+samay.thakkar@outlook.com,Eco-Mail Development India Pvt.,Samay Thakkar,05/05/2016,12/01/2017,FALSE,"Openwage gives employees immediate access to their earnings. Employees love this financial wellbeing benefit. Zero cost to your company.
+
+
+Mybox a Hero Electronics venture is a Govt. Recognized Research and Development House launched with a mission of becoming India’s leading Digital Electronics brand across the globe with products in Set-Top-Box and Internet of Things (IoT) space.","QA Engineer
+● Automation of Web and Mobile tests on IOS and Android
+● Running the CircleCI jobs
+● Attending sprint ceremonies
+● Raising defects and tracking",Java with Selenium and Appium Serenity CircleCI Jira Kuberenetes Docker
+samay.thakkar@outlook.com,On Demand Agility Solutions Pvt. Ltd,Samay Thakkar,11/3/2013,01/01/2016,FALSE,A cloud based online software that provides Intuitive and comprehensive solutions integrated with impeccable management of employees payroll processing in real-time.,"Software Engineer
+
+Creation of framework
+● Automation of Web Application
+● Running the tests in Teamcity",WebdriverIO with Typescript Cucumber Allure Reporting
+setiya.hitesh@gmail.com,DreamOrbit Softech Pvt Ltd,Hitesh,07/07/2021,08/04/2023,TRUE,"
+This is Logistics Application our role is Add new features and resolve the production Bugs. This product divided into multiple part. Developed the functionalities under Agile Methodology JIRA processes and used JIRA for task assignment bug tracking and fixing. Used Postman to test API workflow tested on JSON files. Followed Test Driven Development (TDD).
+
+
+
+",Software Engineer ,Java 8 Java/J2EE Spring Boot Web Services JSP Servlet NetBeans Oracle Junit JDBC template GIT Gitlab
+setiya.hitesh@gmail.com,DreamOrbit Softech Pvt Ltd,Hitesh,07/07/2021,08/04/2023,TRUE,"
+This is common Logistics Application work multiple clients This application architecture divided into multiple layers like Admin manger Service. This is monolithic architecture follow mvc pattern we use Spring MVC with JSP Our role is to add new features and resolve bugs.","Software Engineer
+
+● Developed the functionalities under Agile Methodology JIRA processes and used JIRA for task assignment bug tracking and fixing.
+●Followed Test Driven Development (TDD).",Java 8 Java/J2EE Spring Boot Spring Data Web Services  Spring IntelliJ  Oracle  Junit Mockito GIT Gitlab.
+setiya.hitesh@gmail.com,DreamOrbit Softech Pvt Ltd,Hitesh,07/07/2021,08/04/2023,TRUE,"
+TU ( TransUnionHK Wrapper) will be responsible for consuming Transunion APIs response of APIS we convert to Transunion Atlas Environment Perform logical operations based on requirements And make TransUnionHK Wrapper Rest APIs. TransUnionHK Mobile Application is responsible to consume TU HK Wrapper APIs
+","Software Engineer
+
+Developed the functionalities under Agile Methodology JIRA processes and used JIRA for task
+assignment bug tracking and fixing.",Java 8 Spring Boot IntelliJ  Junit Map Struct GIT Gitlab Soap UI
+setiya.hitesh@gmail.com,Dogra Technologies Pvt Ltd,Hitesh,12/12/2020,06/06/2021,FALSE,"BIS ( Billing Integration system) will be responsible for calling discounts and calculating same on the subscription products in killBill system. However these discounts calculation will be done on BIS side using third party billing software (in this case its KillBill ). Working and good understanding kill bill api using killbill client like account subscription invoices and catalog plugin discounting engine. Developed the functionalities under Agile Methodology JIRA processes and used JIRA for task assignment bug tracking and fixing.
+",Junior Java Developer,Java 8 Spring Boot IntelliJ  Junit KillBill GIT Github Postman.
+setiya.hitesh@gmail.com,Dogra Technologies Pvt Ltd,Hitesh,01/05/2020,12/06/2020,FALSE,"
+Digital menus have allowed operators to take control of pricing. Beautiful graphics are used to showcase the fresh ingredients that consumers want. The latest generation of digital menus gives restaurant operators more control. With the use of our Digital Menu Controller software they can easily and instantly update menu prices. Developed the functionalities under Agile Methodology JIRA processes and used JIRA for task assignment bug tracking and fixing.",Junior Java Developer,Thymeleaf JavaScript Java 8 Spring Boot IntelliJ  Junit JDBC Template GIT Bitbucket Junit Postman MYSQL JPA Hibernate.
+tejas.p@goldeneagle.ai,Golden Eagle IT Technologies Pvt Ltd.,Tejas Patil,03/03/2017,08/04/2023,TRUE,"
+It is a degeneration of the knee’s articular cartilage. Knee osteoarthritis is by far the most common type of arthritis to cause knee pain and often referred to as simply knee arthritis. Building a Model to detect the grade of knee by providing x-ray image. It will help organizations which type of treatment we need to provide patients.
+
+
+
+","
+Associate Data Engineer
+● Responsible for Data Gathering Due to less amount of images we created data by using Data Augmentation technique from Image Data Generator.
+● Responsible for Model building We use CNN model activation function used in Relu and Softmax. For validation loss we used both Categorical_Crossentropy
+● Worked with tensorflow keras good in Deep learning.
+● We used Batch Normalization and Dropout for increasing accuracy vs previous accuracy.",
+tejas.p@goldeneagle.ai,Golden Eagle IT Technologies Pvt Ltd.,Tejas Patil,03/03/2017,08/04/2023,TRUE,"
+Building a model in the Healthcare domain and to predict whether the diagnosed prostate cancer patient will survive or not. It will help an organization for those patients who won't survive so that they can try to give the best treatment and save their patients life.","Associate Data Engineer
+
+
+● Responsible for data preprocessing Imputed Nan values by Knnimputer and also statistical method (MeanMedianMode).Detected outliers by IQR and Handled Outliers by capping because the dataset has 5% outliers.
+● Data is imbalanced  to balance it we used SMOTE",
+tejas.p@goldeneagle.ai,Golden Eagle IT Technologies Pvt Ltd.,Tejas Patil,03/03/2017,08/04/2023,TRUE,"
+Building a model in the finance domain and to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimize its business model and revenue. Extracting the meaningful pattern from data to get the key outcomes.
+
+","Associate Data Engineer
+
+Responsible for Data processing Data imbalance to balance it we use SMOTE.
+● Responsible for handling missing values and outliers used Statistics Knn imputer.
+● Analysis data using Tableau
+● Checking relationships in tables using SQL
+● Detecting outliers using IQR to handle it we did capping.
+● Responsible for Model building RFGBLR and SVM..
+● working with pandas numpy sklearn matplotlib seaborn etc
+● Good in Model validation like AUC ROC MSE
+MAE F1_Score precision recall",
+vidish1@gmail.com,QuanticEdge Software Solutions LLP,Vidish Purohit,01/05/2017,08/04/2023,TRUE,"
+It is an E-Commerce website which let you create the clones of all the WebApp or Applications. Client needs to share the details what he wanted only. Admin panel is there to track orders of customer and manage orders and have functionality to order on behalf of customers. We have additional security key other that login for doctor so if anyone knows user’s credentialsthen he/she cannot order on behalf on doctor.
+
+
+
+
+
+
+","Sr. Solution Architect & Tech Lead
+
+Analysis
+• Database Design
+• Development
+• Client Calls & Demo",WordPress Woocommerce
+vidish1@gmail.com,QuanticEdge Software Solutions LLP,Vidish Purohit,01/05/2017,08/04/2023,TRUE,"
+This is the web app that is used to get custom reviews as per client’s needs. Admin can change all the features data dynamically.
+","Sr. Solution Architect & Tech Lead
+Analysis
+• Development of Web Portal
+• Unit Testing
+• Deployment",WordPress & MySQL
+vidish1@gmail.com,QuanticEdge Software Solutions LLP,Vidish Purohit,01/05/2017,08/04/2023,TRUE," This is a Denmark-based client’s project. They have 12 Woo shops & idea behind creating this Codeigniter portal is to store all the Woocommerce store’s data in one place.
+• So their staff members can access this portal pack it & deliver it to their customers.
+• We have used different payment gateway APIs Vipps PayPal Epay & Klarna. For Delivery we have used Webshipper & Unifaun Apis.
+",Sr. Solution Architect & Tech Lead ,CI & MySQL
+vidish1@gmail.com,Squad Technologies Pvt. Ltd.,Vidish Purohit,01/05/2017,08/04/2023,TRUE,"
+ Rothco is America’s foremost wholesale supplier of military tactical and outdoor products.
+• They carry an extensive line of apparel and gear available for domestic and overseas sale to re-sellers of all types: retail wholesale military police security outdoor productspublic safety tactical screen printers uniform dealers fashion retailers sportswear and apparel shops.",Sr. Developer Business Analyst Database Designer Interact with Client Module design and Development.,Laravel & MySQL
+vidish1@gmail.com,Squad Technologies Pvt. Ltd.,Vidish Purohit,01/05/2017,08/04/2023,TRUE,"
+Pabau CRM is a fully featured Medical Practice Management Software designed to serve SMEs Agencies. • Pabau CRM provides end-to-end solutions designed for Web App. • This online Medical Practice Management system offers E-Prescribing Multi-Physician Patient Registration EMR / EHR Insurance Eligibility Verification at one place.
+",Solution Architect(Remote ),Laravel & MySQL
+vidish1@gmail.com,Squad Technologies Pvt. Ltd.,Vidish Purohit,01/05/2017,08/04/2023,TRUE,www.giftbasket.com is a website which allows users to order Giftbasket to their relatives or for their self.,"Analysis
+• Database Design
+• Development
+• Module design and Development
+• Client Calls & Deployment",
+vidish1@gmail.com,Squad Technologies Pvt. Ltd.,Vidish Purohit,01/05/2012,01/06/2013,FALSE,"News site is a fully featured News CRM. - You will find latest news there. - This news site have different user roles for Normal user admin and author. - Team Size: 2. Corpshaala
+
+",Development Unit Testing Deployment,WordPress & MySQL
+vidish1@gmail.com,Squad Technologies Pvt. Ltd.,Vidish Purohit,01/05/2012,01/06/2013,FALSE,"
+Corpshaala is the next-gen AI platform for students colleges and employers to connect and explore opportunities from internships to jobs. - User can register himself. - Admin panel is there to track students/employees all the details and can modifications as per need. ", Development of Web Portal Unit Testing Deployment,WordPress & MySQL
+rajeshawariravindra@gmail.com,Astralprise Software Technologies Pvt Ltd,Rajeshwari B R,03/03/2019,04/04/2023,FALSE,"In this project we have introduced a fully-fledged e-commerce website which also includes a product review and blog portal. The website will be an end-to-end working condition that includes features like add to cart an easy payment option and a database that generates messages to the customer and also stores the data.
+
+","
+
+ Managed the roles of SCM Administrator and Build engineer in this project.
+• Creating New Repositories and branches in GitHub.
+• Setting up the new build environment for various products in the Linux environment implemented the Release practice and was responsible for pushing builds into DEV/ QA /Pre-Production environments.
+• Recommendation of SCM/Build/Release Process.
+• Involved in the Deployment of the application using WebLogic.
+• Involved in scheduling the automated build called Nightly Builds in Jenkins.
+• Interacting with developers to sort out issues related to Build Automation.
+• Creating Jenkins Jobs.
+• Maintaining Deployment guides for each release.
+• Uploading the artifacts in Nexus repository.
+• Involved in Jenkins Administrator.
+• Project involved the usage of maintaining repository and version control.
+• Continuous improvement of the SCM process
+• Involved in Branching and tagging of code delivery at required releases.
+• Co-work with the globally distributed Development team to fix the Build related issues.
+• Development of shell scripts for automation of existing manual processes.
+• Analyzing application logs in order to determine the possible cause of issues and reporting errors directly to the dev team.
+• Involved in Application support end to end and troubleshooting the issues reported by QA team.",Java/J2EE WebLogic Apache Tomcat Linux Jenkins Shell Scripting Maven and Nexus artifactory
+ahmad@elsner.in,Elsener Technologies,Ahmad Palsaniya,01/01/2022,08/04/2023,TRUE,"Medidoor is a new online shop for the pharmacy to receive payment online the display offers to all customers to send an automatic reminder for monthly medicines patients can send prescriptions via app & much more to get in touch with all customers from anywhere all the time.",IOS Developer,
+ahmad@elsner.in,Elsener Technologies,Ahmad Palsaniya,01/01/2022,08/04/2023,TRUE,"
+I have developed the Absolute Health Centre app for iPhone and iPad with Swift Programming language. - It works on a clinic related app. - Patient Book Appointments of a particular doctor and that doctor accept approval and confirm that appointment. - Also Chat functionality is there so patients and doctors communicate with each other. - Whenever appointment time is near then the doctor can alert that patient for his appointment. - Manage Push notification via firebase.
+",IOS Developer,
+ahmad@elsner.in,Elsener Technologies,Ahmad Palsaniya,01/01/2022,08/04/2023,TRUE,"
+Mandaliya Medicals is a new online shop for the pharmacy to receive payment online the display offers to all customers to send an automatic reminder for monthly medicines patients can send prescriptions via app & much more to get in touch with all customers from anywhere all the time ",IOS Developer,
+ahmad@elsner.in,Elsener Technologies,Ahmad Palsaniya,01/01/2022,08/04/2023,TRUE,"
+Digital job cards and estimates on your fingertips. - Automatic notifications to customers & one-click WhatsApp option. Remind your customers at the right time and grow the business. - Track business profitability in real-time. - Manage end-to-end stock from purchase order to inventory. - Manage your customer's workshop visit from booking through to driving away happy. - Prepare TAX-compliant invoices with the simplest interface. - Go green with completely paperless workshop operations.
+",IOS Developer,
+ahmad@elsner.in,Attune Infocom Pvt. Ltd,Ahmad Palsaniya,01/01/2017,12/12/2021,FALSE,"
+ManiCouture is a fashion destination for online shopping. Choose from the best of brands and shop for clothing footwear accessories and home furnishing for men women and kids all at the click of a button.
+
+
+",IOS Developer,
+ahmad@elsner.in,Attune Infocom Pvt. Ltd,Ahmad Palsaniya,01/01/2017,12/12/2021,FALSE,ZAMY is a combination of RESTAURANT MANAGEMENT POINT OF SALES FOOD ORDERING DELIVERY PARTNER. - We not only connect people to food but work closely with restaurants to Manage their Restaurant Sales Food Delivery and Food Ordering System to enable a sustainable ecosystem of restaurants. - The system that existed was extremely complex and not connected with each other. We pivoted everything on the one platform called ZAMY we know today. ,IOS Developer,
+ahmad@elsner.in,Attune Infocom Pvt. Ltd,Ahmad Palsaniya,01/01/2017,12/12/2021,FALSE,"
+All in the loop is a platform of virtual event management. - This app implemented Broadcasting live streaming meeting room video calling audio calling and many more features available for connecting people virtually. - Here we are using agora sdk and Twilio sdk for the live streaming concept. - Also implemented real-time chat through a web socket ",IOS Developer,
+krishn.tushar@gmail.com,Neepanlok Infotech Pvt. Ltd,Tushar Krishna Srivastava ,04/04/2017,03/03/2021,FALSE,,"Devops Engineer
+Engaged with internal stakeholders software engineers data scientistsand other technologists.
+● Incorporated Git workflows into the version control process.
+● Automated build and deployment to reduce human error and speed upproduction.
+● Infrastructure management for a robust cloud platform based on Azure
+● Used Terraform to set up the Azure resources
+● Responsible for server configuration management via Ansible andenvironments management
+● Managed 100% of Azure cloud environments automation
+● Implementing APM Monitoring Using ELK",AzureTerraformGIT ELK Ansible
+krishn.tushar@gmail.com,Neepanlok Infotech Pvt. Ltd,Tushar Krishna Srivastava ,04/04/2021,08/04/2023,TRUE,,"Sr.Devops Engineer
+Configuring Jenkins Pipeline for Creating CI/CD for different Environments
+● Designing and Provisioning new UAT Environment
+● Migrating the old Prod AKS Cluster to a new reconfigured Cluster
+● Creating Logic Apps for scheduling Virtual Machine run time
+● Cost-Optimization to reduce the overall cost
+● Implementing new Methodology for the SSL implementation
+● Setting Up Automation for the various tasks to reduce manual interventions
+● Setting up and Configuring HAProxy Server for the Staging Environments
+● Debugging and Resolving any old Underlying Issues",Azure Jenkins AKS Terraform
+krishn.tushar@gmail.com,ClimsTech Pvt. Ltd,Tushar Krishna Srivastava ,04/04/2017,03/03/2021,FALSE,,"Sr.Devops Engineer
+Providing support in debugging and resolving critical issues
+● Setting up managing infrastructure resources
+● Infrastructure provisioning using Terraform
+● Supporting in Linux Admin related task
+● Handling CI/CD forPHP application stack
+● Handling the Release Cycle for the Deployment
+● Ensuring the Proper Compliance is met and the SLA is implemented.
+● Working with Developers Release management and tool decision team to enhance CI/CD pipeline.
+● APM monitoring using Prometheus and Grafana
+● Responsible for Docker container creation and management Docker file management deployment of micro services to container
+● Setting up and managing the application and its dependencies
+● Providing direction and guidance to the team",Azure Terraform GitHub PHP Nginx Prometheus EKS
+krishn.tushar@gmail.com,ClimsTech Pvt. Ltd,Tushar Krishna Srivastava ,04/04/2017,03/03/2021,FALSE,,"Sr.Devops Engineer
+Incorporated Git workflows into the version control process.
+● Reduced the monthly cost by removing unnecessary servers and databases.
+● Implemented and maintained GitHub Runner CI/CD pipelines for code deployment.
+● The servers and resources were provisioned using Terraform on Azure.
+● Build and deployment of docker containers for implementing the microservice architecture from a monolithic architecture.
+● Using Kubernetes to orchestrate a Docker container cluster.
+● Provided local and cloud deployment management using Kubernetes.
+● Have worked on Docker containers image managementImplementation of docker best practices",Azure Terraform GitHub Ansible Docker Kubernetes
+sumeet@teaminnovatics.com,Innovatics,Sumit Rathi,01/01/2023,08/04/2023,TRUE,," Senior Business Analyst
+Leading a team of 6 BI developers responsible for overseeing their daily projects and assisting them in overcoming any challenges they encounter.
+• Liaised closely with multiple stakeholders regularly presenting insights & recommendations to Senior stakeholders.
+• Built end-to-end data pipelines in Azure Data Factory to extract data from multiple APIs and load it into Azure SQL enabling seamless data flow and generating actionable insights through Power BI.
+• Advised and guided the client in setting up their Power BI infrastructure from scratch leveraging myexpertise in Power BI architecture and best practices to ensure optimal performance and scalability
+• Allocating Resources into client accounts to generate additional business for the company""                 ",
+sumeet@teaminnovatics.com,Innovatics,Sumit Rathi,10/10/2021,12/12/2022,FALSE,,"Business Analyst
+
+Designing and developing end-to-end BI solutions using Power BI from data modeling and ETL to report/dashboard development and deployment.
+• Developed predictive models and forecasts using Power BI that helped clients anticipate future trends and make informed decisions
+• Lead Transformation of client's excel based analysis operation to near real-time Business intelligence environment
+• Developed a complex report demonstrating how the SMS service utilized by the client boosted patient appointments and increased revenue by 20 %
+• Developed a chatbot using Rasa that enables patients to easily schedule appointments for medical assistance streamlining the process and improving accessibility
+• Utilized ML attribution modeling to create a Power BI report that recommended the optimal allocation of the client's digital marketing budget across various social media channels based on their historical performance and ROI.        ",
+sumeet@teaminnovatics.com,Open Destinations,Sumit Rathi,01/01/2020,09/09/2021,FALSE,," Business Intelligence
+Responsible for managing & maintaining client relationships & working as liaison between Offshore & business team.
+• Creating a dedicated Dashboard to track high-priority work items and streamlining the efforts of project coordinators through automation
+• Developed a new module for an existing product to better meet the need of the clients
+• Understanding business requirements extensive analysis in SQL Excel and translating them into technical requirements for the team.
+• Involved in performance tuning and fixed bottlenecks for the processes using SQL which were already running in production.
+• Responsible for day-to-day task management mentoring of new associates and leading delivery of project
+deliverables.",
+prathamesh.kulkarni@salorix.in,Salorix Consulting,Prathmesh Kulkarni,03/03/2022,08/04/2023,TRUE,"This application is used to provide secret manager services across the organization. This includes support for all users to store their secret  create key vault  Role assignment password rotation Grant-Revoke access. All these secret management service is provided in most secured way as following all the best security practises. This application uses modern tech stacks such as GraphQL Azure functions C# Durable functions Angular PWA Dockerize deployment.
+",Sr. .Net Developer,C# .Net Core GraphQL Azure Devops Angular Docker Devops
+prathamesh.kulkarni@salorix.in,Saviant Consulting Pvt. Ltd (India),Prathmesh Kulkarni,07/07/2018,03/01/2022,FALSE,"
+This application is used to discover the devices available in network and communicate the monitoring devices which measures data from multiple sensors. This is a subscription-based application In which changed in device properties can be purchased as a subscription and used. This application also uses GraphQL to represent device structure to outside application. The application helps to keep track of devices its measurement data and some physic calculation over sensor data such as unit conversion Zeroing etc. This application do not uses any database to store its data. All streaming data gets stored in file bases system. These devices supports OPC UA client server structure which helps to communicate. OPC UA node structure defines device object model and its hierarchy. Application helps in tracking the maintenance schedule of the devices",Technology Lead,C# .Net Core GraphQL AWS Devops MQTT OPC UA MDNS Docker
+prathamesh.kulkarni@salorix.in,ASM ENTERPRISE SOLUTIONS,Prathmesh Kulkarni,05/05/2017,07/05/2018,FALSE,The application provides the facility for Horse owners in US to show case their horses. This application mainly works for American paint horse association. This application allows user to purchase  transfer their horses. Organize and participate in multiple shows. It also provides horse owners to conduct multiple medical health check-up of horses such as DNA.,Senior Software Engineer,MEAN Stack AWS Elastic Search JavaScript Docker Cloud Security
+prathamesh.kulkarni@salorix.in,SUVIDHAA INFOSERVE (India).,Prathmesh Kulkarni,03/03/2014,04/04/2017,FALSE,The application helps the industry to scan multiple documents perform data operation and provide analytics. This existing application uses on-premises data centre. Our team helps them to migrate their whole application Azure cloud with different environment setup. We organize their release process and provided containerization deployment support.,Technical lead,Docker Devops Batch scripts
+prathamesh.kulkarni@salorix.in,BSG IT SOFT,Prathmesh Kulkarni,04/04/2013,05/05/2014,FALSE,The application is meant for the Reliance LPG gas user. This applications keeps track of their users analytics data and tracking of their bottling plants. Used RFID and barcode implementation to keeps track of LPG cylinders. Used google api for live tracking of delivery. Integrate Billdesk payment gateway which helps user to pay amount using UPIcard and netbanking. Later we migrate this application on AWS cloud platform to reduce in house data centre infra cost.,Software Developer,C# .Net Core REST API Entity Framework Code First Linq Bootstrap 2 JQuery HTML5 CSS.
+prathamesh.kulkarni@salorix.in,Techmodi Inc. (India),Prathmesh Kulkarni,02/02/2012,04/04/2013,FALSE,This application is used to authenticate user from Azure AD to provide secured session based access to AWS services. This helps to minimize risk and provide most secure access to AWS without separately authorizing on AWS side. For this We have used AWS sts sessions.,Software Engineer,C# .Net Core AWS DevOps Docker
+bhaveshbhuva108@gmail.com,Eliteware Solutions Pvt Ltd.,Bhavesh R. Bhuva,06/06/2018,08/04/2023,TRUE,Balaji restaurant received assistance from Eliteware solutions to design an appealing website that provides a user-friendly experience to all visitors regardless of their level of technological expertise. The website is mobile-friendly and can be accessed on any mobile device. Additionally Eliteware aided in promoting the restaurant through digital marketing efforts to raise awareness in the local community.,,
+bhaveshbhuva108@gmail.com,Eliteware Solutions Pvt Ltd.,Bhavesh R. Bhuva,06/06/2018,08/04/2023,TRUE,We worked with LovinDxb to create a stunning and clearer website that escalated the traffic of the number of visitors seeking what Dubai has to offer in their favour. We created simple design attractive pages and segregated the services like best places in town night life ladies night etc. that led to hassle-free and quick searches for the website. They have become a one-stop-solution for all travel woes when in Dubai and takes you on a virtual tour of dreaming and planning,,
+bhaveshbhuva108@gmail.com,IBL INFOTECH PVT. LTD,Bhavesh R. Bhuva,06/06/2016,05/05/2018,FALSE,"Arvind Envisol is a renowned brand that offers top-notch wastewater management services to industries enabling them to balance profitability with sustainability by optimizing their limited water resources. However the company faced the challenge of raising awareness in society and encouraging industries to adopt its solutions.
+The primary reasons for this were their outdated website design and lack of digital marketing strategies. To address these challenges Arvind Envisol needed to revamp its online presence and implement effective digital marketing processes to promote its services and increase visibility.",Wordpress Developer,
+bhaveshbhuva108@gmail.com,Upwork,Bhavesh R. Bhuva,04/04/2014,12/12/2016,FALSE,"
+Created and designed 290 APIs that map the distance and automate calls using the Àaravel framework for iOS¹application. Developed a chat module using meteor framework for internal communication in a company. Aed a team of 12 developers and nine interns. Implemented the Scrum methodology to save 8+ meeting hours per week per dev and improve the overall efficiency & productivity of the team.",PHP Web Developer,
+
+

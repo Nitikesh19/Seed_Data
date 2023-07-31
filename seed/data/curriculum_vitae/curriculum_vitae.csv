@@ -1,0 +1,261 @@
+account_email,cv_type,title,description,summary,birth_date,working_since
+amol@drc.com,DEVELOPER,"Technical Lead",,"Having good hands on experience of 11+ years in cloud computing, Networking and Project Management with technical expertise in the implementation, operations and support functions of mission-critical business solutions using IT as a tool.",23/2/1986,20/6/2018
+ajit@drc.com,DEVELOPER,Software Engineer,,Results-driven software engineer with expertise in developing scalable and efficient applications. Proficient in multiple programming languages and experienced in working on diverse projects.,10/9/1988,5/4/2012
+arya@drc.com,QE,Marketing Manager,,Dynamic marketing manager with a proven track record of driving successful marketing campaigns and achieving targets. Proficient in developing strategic marketing plans and leveraging digital platforms.,15/5/1991,1/7/2013
+kirti@drc.com,UX,Data Analyst,,Detail-oriented data analyst skilled in analyzing and interpreting complex datasets. Proficient in SQL and data visualization tools. Experienced in providing actionable insights to support data-driven decision making.,7/12/1990,10/2/2014
+amol@cloud.co.in,PRODUCT,UX Designer,,"Creative and user-focused UX designer with expertise in user research, wireframing, and prototyping. Skilled in designing intuitive and engaging user interfaces for web and mobile applications.",19/8/1987,15/9/2011
+ajit@cloud.co.in,BA,Sales Manager,,Accomplished sales manager with a track record of exceeding targets and building strong client relationships. Skilled in leading sales teams and implementing effective sales strategies.,12/6/1989,3/12/2012
+arya@cloud.co.in,DEVELOPER,Project Manager,,"Experienced project manager proficient in Agile methodologies. Skilled in leading cross-functional teams and delivering projects within scope, timeline, and budget.",29/3/1985,20/8/2008
+kirti@cloud.co.in,QE,Web Developer,,"Skilled web developer proficient in HTML, CSS, JavaScript, and various frameworks. Experienced in developing responsive and user-friendly websites.",4/7/1992,11/11/2015
+john@abc.com,UX,Marketing Specialist,,"Results-oriented marketing specialist with expertise in digital marketing campaigns. Proficient in SEO, SEM, and social media marketing.",18/9/1993,7/6/2016
+jane@abc.com,PRODUCT,Software Architect,,Experienced software architect with a strong background in designing and implementing scalable and robust software solutions. Proficient in various programming languages and frameworks.,8/4/1987,2/9/2010
+mark@abc.com,BA,Frontend Developer,,"Skilled frontend developer with expertise in HTML, CSS, and JavaScript. Experienced in building responsive and user-friendly web applications.",14/11/1990,17/6/2014
+emily@abc.com,DEVELOPER,Operations Manager,,Results-driven operations manager with a track record of streamlining processes and improving efficiency. Experienced in leading cross-functional teams and implementing strategic initiatives.,30/7/1985,9/3/2009
+riya@xyzcorp.com,QE,Data Entry Operator,,Detail-oriented data entry operator with strong typing skills and attention to detail. Experienced in accurately inputting data and maintaining data integrity.,5/9/1993,6/11/2016
+rohan@xyzcorp.com,UX,Business Analyst,,"Analytical business analyst with expertise in gathering and analyzing requirements, conducting market research, and identifying business opportunities. Skilled in translating business needs into actionable strategies and solutions.",12/1/1989,21/8/2013
+sam@xyzcorp.com,PRODUCT,HR Manager,,"HR professional with experience in managing all aspects of the employee lifecycle. Skilled in recruitment, performance management, and employee relations.",17/6/1987,14/10/2011
+mia@xyzcorp.com,BA,Backend Developer,,Backend developer with expertise in designing and implementing scalable and secure server-side applications. Proficient in programming languages such as Java and Python.,23/3/1991,8/9/2015
+sunil@efgsolutions.com,DEVELOPER,Product Manager,,"Experienced product manager with a proven track record of successfully launching and managing products throughout their lifecycle. Skilled in market research, product strategy, and product roadmap development.",9/12/1988,4/7/2012
+priya@efgsolutions.com,QE,Research Assistant,,"Research assistant with a strong background in conducting literature reviews, data collection, and analysis. Experienced in assisting with research projects and contributing to academic publications.",18/5/1992,11/9/2015
+rahul@efgsolutions.com,UX,Operations Analyst,,Analytical operations analyst with expertise in process optimization and data analysis. Skilled in identifying areas for improvement and implementing solutions to enhance operational efficiency.,2/8/1989,28/3/2013
+nisha@efgsolutions.com,PRODUCT,QA Manager,,"QA manager with a focus on ensuring product quality and adherence to standards. Skilled in designing test strategies, managing test plans, and leading QA teams. Experienced in implementing and maintaining quality assurance processes.",14/2/1986,20/6/2011
+aanya@pqrsolutions.com,BA,Full Stack Developer,,Full stack developer with expertise in frontend and backend development. Proficient in multiple programming languages and frameworks. Experienced in building end-to-end web applications and optimizing their performance.,28/11/1990,25/4/2014
+piyush@pqrsolutions.com,DEVELOPER,Operations Supervisor,,"Operations supervisor with a focus on managing day-to-day operations and ensuring efficient workflow. Skilled in team leadership, process improvement, and performance management.",9/7/1987,3/11/2010
+neha@pqrsolutions.com,QE,Marketing Intern,,"Marketing intern with a strong interest in digital marketing and social media. Experienced in assisting with marketing campaigns, content creation, and data analysis.",20/9/1993,17/6/2016
+arjun@pqrsolutions.com,UX,Operations Coordinator,,"Operations coordinator with a focus on coordinating and optimizing daily operational activities. Skilled in project management, process documentation, and stakeholder communication.",16/3/1988,12/9/2012
+arjun@lmnservices.com,PRODUCT,Technical Writer,,Experienced technical writer with expertise in creating clear and concise technical documentation. Skilled in understanding complex concepts and translating them into user-friendly documentation.,1/5/1986,8/7/2010
+sanjay@lmnservices.com,BA,Java Developer,,Rest API Created ,1/5/1987,8/7/2012
+raj@lmnservices.com,DEVELOPER,Sales Manager,,Highly motivated sales manager with a proven | Results-driven sales manager experienced in track record.,12/7/1989,5/4/2012
+amit@lmnservices.com,QE,Software Engineer,,Passionate software engineer specializing in | Skilled software engineer proficient in multiple,16/9/1992,7/3/2015
+sanya@uwvsolutions.com,UX,Software Engineer,,Passionate software engineer specializing in  | Skilled software engineer proficient in multiple developing scalable and efficient applications.,16/9/1992,7/3/2015
+rahul@uwvsolutions.com,PRODUCT,Business Analyst,,Analytical business analyst proficient in | Business analyst experienced in conducting,29/5/1990,15/9/2013
+priya@uwvsolutions.com,BA,Backend Developer,,Backend developer with expertise in designing  | Skilled backend developer proficient in and implementing scalable   ,7/12/1993,4/6/2016
+nisha@uwvsolutions.com,DEVELOPER,HR Manager,,HR professional experienced in managing ,13/8/1988,21/11/2011
+ram@rsttech.com,QE,Technical Lead,, Technical lead with extensive experience in    | Skilled technical lead proficient,26/3/1985,18/7/2009
+amit@rsttech.com,UX,Frontend Developer,,alented frontend developer specializing in    | Experienced frontend developer proficient in  creating interactive and user-friendly,9/9/1991,14/11/2014
+shivum@rsttech.com,PRODUCT,Product Manager,,Product manager with a proven track record Results-driven product manager experienced,17/6/1987,2/3/2012
+swapnil@rsttech.com,BA,Data Analyst,,Detail-oriented data analyst skilled in analyzing complex datasets and generating actionable insights. ,11/2/1989,16/5/2012
+Nisha@wxysolutions.com,DEVELOPER,Operations Manager,,Operations manager with a track record of streamlining processes and improving operational efficiency.,5/10/1992,15/1/2013
+Mayuresh@wxysolutions,QE,Full Stack Developer,,Full stack developer specializing in designing and developing scalable web applications. ,12/4/1989,7/7/2016
+Amar@wxysolutions,UX,Backend Developer,,Backend developer with expertise in designing and implementing scalable and secure server-side applications. Proficient in programming languages such as Java and Python.,13/8/1988,21/11/2011
+Hitesh@wxysolutions,PRODUCT,HR Manager,,HR professional experienced in managing ,29/5/1990,15/9/2013
+priyankfs.net@gmail.com,DEVELOPER,Senior Software Developer,,A self-motivated software solution architect with 8+ years of experience in developing web applications using the latest technologies net core MVC SQL Server Entity Framework and Web APIs. A quick learner with good grasping abilities is my major strength,08/07/1996,08/05/2020
+pravin@upperthrust.com,DEVOPS,Senior Devops Engineer                                        ,,Professional Sr. DevOps Engineer with 6.3 years of experience in providing solutions to automate Infrastructure CI/CD pipeline and monitoring the application. A quick learner and project management are my strong skills. ,10/02/1989,01/01/2016
+jalad.jhamb@giitian.com,DEVOPS,Devops Engineer                          ,,Having 3 years of experience as a Devops and Cloud Engineer (AWS) and ML Engineer Worked with companies GIIT Solutions Currently working for GIIT solutions as DevOps and Cloud Engineer.Largely worked with US and UK based customer interfacing roles,21/06/1991,05/04/2019
+ashishpsharma9@gmail.com,DEVELOPER,Senior Software Developer                          ,,Professional Software Developer with almost 4 yrs of experience in different application development processes. Involved in product development mentoring Interns technological innovation practices. Hands-on experience with technologies like Node.js Java ReactJs Angular.,23/10/1993,04/06/2019
+shajra1988@gmail.com,DEVELOPER,Lead Software Engineer,,"9.5 years of work experience in the field of IT with focus on ASP.Net (3.5 4.0) C # Asp.Net MVC Asp.Net Core Angular Integrating .Net Web application with 3rd party application SQL Server and Strong knowledge of all phases of SDLC.
+Possess client management skills with onshore exposure of Australia for 3.5 years.
+• MongoDB SQL SQL Server Integration services (SSIS) SQL Server Reporting services (SSRS).
+• Having good concepts and understanding in HTML CSS JQuery and JavaScript.
+• Working experience as developer in Agile Methodology with Professional Scrum Developer certification (PSD1).
+• Worked on development and enhancement projects for Banking Domain with strong blend of developer and tester skillsets.
+• Good experience on requirement gathering from business and work based on those requirements.
+• Good experience in creating Technical documents related to Projects like Technical specification document Functional specification document Implementation document etc.
+• Strong analytical skillset. Ability to take at times requirements without much detail and work out what’s required.
+• Ability to work under minimum supervision.",11/05/1995,03/05/2012
+sravanreddyrsm@gmail.com,BI ,Power BI Developer,,"Total 5+ years of Experience in IT field and currently working on SQL Power Bi development.
+• Extensive experience with SQL Server 2012 2017 and T-SQL in constructing Business logic at back-end using Stored Procedures views indexes and Triggers.
+• Hands-on DDL DML DRL TCL DCL Constraints and Data types Operators.
+• Hands on using Joins and Set Operators for retrieving data from multiple tables.
+• Hands on Sub queries correlated sub queries top n with clause several for data retrieving.
+• Hands on Schema Objects like views synonyms and indexes.
+• Design and creating /modifying the Datasets to load the Fact tables and Dimension tables in the Data Model.
+• Performing Gap analysis on columns with source and destinations.
+• Design and build Power bi Solutions to meet Customer Specifications.
+• Designed Developed Implemented and Supported Power Bi dashboards.
+• Knowledge on Data Warehousing and Business Intelligence concepts.
+• Effectively translate end user reporting requirements into functional design documents
+• Worked on Agile and Waterfall methodology for project development cycle
+• Implement various visualization and reporting techniques.
+• Preparing Technical Document and User Manual and handing over the Application to support team after UAT.
+• Server monitoring and making sure data getting refreshed at its scheduled time and troubleshooting whenever necessary.
+• Good Knowledge on Power bi Server and Publisher.
+• Good knowledge in DAX.",12/11/1993,06/05/2017
+raj.s.ecodedash@gmail.com,DEVELOPER,Software Developer,,"• Over 6 Years of experience in Software Development Design and Implementation.
+● Extensive experience in React Redux NextJs JavaScript Typescript CSS3 HTML5 Bootstrap SCSS etc.
+● User experience of creating APIs using Node JS and Express JS with DB as Mongoose.
+● Experience in version control systems like GIT and SVN.
+● Good analytical and problem-solving skills.
+● Performs various project activities like code reviews code merging deployment code migration etc.
+● A highly motivated individual who is always focused on focus learning able to work into tight deadlines and who can communicate effectively with technical peers as well as business users. I always encourage learning and the sharing of ideas. I have team player skills with a can-do attitude phenomenal time management skills and a strong user focus.",15/12/1991,01/05/2016
+dibyendu.rakshit@gmail.com,DEVELOPER,Java Developer,,"• 15+ years of experience on product development design and architecture in Java J2EE.
+• Excellent programming skills in core java8 Spring Boot hibernate and sql.
+• Strong Exposure in writing complex SQL queries.
+• Equally good in Java and Oracle (sql pl/sql).
+• Currently building a SAAS based supply chain product with Microservice architecture.
+• Experience with Analysis Design Development and Implementation of business solutions.
+• Good interpersonal and communication skill.
+• Good analytical and problem-solving skills.
+• Ability to work independently with minimum supervision.",17/04/1992,07/05/2006
+Akashsnghl786@gmail.com,QE,SDET Engineer,,"5+ years of test automation experience with expertise in multiple domains tools and languages.
+• As an automation consultant to provide automation solutions to clients.
+• Involved in conception design development and enhancement of various automation frameworks including several in-house automation frameworks",12/06/1995,01/06/2016
+Pradip.wandhekar@gmail.com,QE,Tech Lead Automation Engineer,,"• 15+ years of industry experience in the area of software testing (manual and automation testing) with a solid understanding of Test Planning Test Design Test Execution and Defect Reporting & Tracking.
+• Strong experience in UI Automation and API Automation testing using Selenium WebDriver with Python.
+• Experience in managing Manual Automation testing and development teams.
+• Worked on different domains including AI/ML Telecom Networks Supply chain management Data Analytics and Education
+• Experience in REST API testing using Postman.
+• Experience in Web based Application Testing.
+• Experience in design development and execution of test cases for functional web (GUI) regression browser compatibility and database testing of different kind of applications.
+• Knowledge of Hadoop Cloudera and cluster server setups MicroStrategy reporting tool.
+• Knowledge of SQL queries.
+• Good knowledge of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
+• Working in Agile models’ requirements analysis sprint planning and executing deliverables for team Interacting with client through mails and daily scrum meeting.
+• Worked on Linux platforms Red Hat SLES Centos OS installation Application deployment testing and worked on virtualization VMware environment.
+• Good Communication and Analytical skills.
+• Persistent scrum master certification.
+• Valid B1 USA visa.",31/03/1996,02/02/2006
+Sawantpravin128@gmail.com,DEVELOPER,Lead .Net Developer,,"• Total 7.10 years of Software Development experience in Web Windows based applications using Microsoft Technology (ASP.NET MVC 4.5/4.0/3.5 .Net Core C# AJAX ADO.NET WCF WPF SQL Server 2005/2008/2012and JavaScript).
+• Working knowledge in the development of standalone applications and web-based applications.
+• Working Knowledge on MS-SQL database and Store procedures.
+• Knowledge on handling Real Time Data using Socket Programming.
+• Working knowledge on web service and WCF and Web API.
+• Responsible for Deployment of projects as well as testing operations and requirement gathering if required.
+• Basic working knowledge of angular.",01/05/1990,01/01/2014
+Prithvichavan83@gmail.com,DEVOPS,Lead DevOps - Infra - Wintel,,"• 9+ years experienced devops solution engineer with hands-on automation skills.
+• Worked on complex infrastructure projects and produce high quality customer focused solutions.
+• Virtualization & containerization (Hyper-V ESXi & Xen Server Dockers Docker Swarm Kubernetes GKE EKS ECS Mesosphere DC/OS)
+• Private Cloud Management (vCenter MS SCVMM OpenXenCenter)
+• Public Cloud Management (Azure AWS GCP)
+• Email System management (MS Exchange Office 365 Lotus notes Postfix)
+• Active Directory Management Securing Environment via GPO PKI Management ADFS SSO Azure AD Connect Identity Management (MIM FIM)
+• Windows Cluster MS SQL Cluster management
+• OS and DB Performance tuning
+• Storage (SAN) hardware administration: EMC NetApp Hitachi and Dell HP including fabric management.
+• Backup Disaster Recovery Planning and Management
+• F5 Load balancer Barracuda LB HAproxy MS NLB Akamai CDN Nginx
+• Web Administration on IIS WAMP LAMP
+• Various DevOPS tool management and implementation skills: Github-Action Jenkins Teamcity Azure Devops CloudFormation TFS Terraform Octopus Ansible MS Orchestration App Controller Artifactory Proget
+• Automation Scripting (PowerShell Bash Python)
+• SharePoint Farm Administration including experience on creating advance workflow InfoPath forms design and PowerApps
+• Monitoring Design and Management (SCOM Nagios OpenNMS New Relic APM Datadog Site24x7 Kibana Splunk)
+• SCCM MDT Compliance Management Patch Management Automation
+• UCS HP and DELL Servers Bare metal deployment automation vBlock Datacenter Technology
+• Problem analysis Advance windows debugging Troubleshooting and RCA
+• Capacity Planning and Performance Management
+• Testing writing documentation support process design and implementation Team management Leadership quality and Process Trainer roles.",28/02/1992,05/05/2008
+vinjamvamsi1992@gmail.com,DEVOPS,Lead DevOps Engineer,,"• DevOps engineer with 7+ years of experience working on multiple facets of a product including design devops security and as such capable of providing the momentum necessary to deliver a product and solution.
+• Deploying product installation and support to the various customers in AWS cloud environment.
+• Implementing a Continuous Delivery framework using Gitlab and installing new instances taking regular backup’s and working on multilevel branching pipelines etc.
+• Created and managed a Docker deployment pipeline for customer application images in the cloud.
+• Experience with configuration management on various applications using Ansible.
+• Experience with Version control Management Branching Merging and code repository tools i.e. GIT GITLAB.
+• Experience with Container technologies such as Docker Kubernetes.
+• Experience working on Docker hub creating Docker images and handling multiple images.
+• Used Ansible to manage Web applications Environment’s configuration Files Users Mount
+points and packages.
+• Launching Amazon EC2 cloud instances using Amazon Machine Images for AWS cloud.
+• Experience on working some services like CloudWatch VPC SNS SQS.
+• Experience in configuring S3 Buckets for EBS backed Snapshots and versioning for data backups.
+• Experience on Automate the Build and deploy of all internal Java applications to environments by using Ansible GITLAB and Shell scripts.
+• Expertise in writing playbooks and creating Roles for Scalability and Reusability in Ansible.
+• Having experience in writing Ansible Playbooks to automate the deployment process and to integrating Ansible Playbooks into Jenkins jobs for a continuous delivery framework
+• Hands on using Version control Management Tool like GIT and its web repositories in GitHub for source code storage and management.",18/01/1990,05/05/2008
+vsantosh.v488@gmail.com,DEVOPS,Lead Devops Engineer,,"• GCP Certified Cloud Security Devops Lead (SRE) & Network Security Architect with more than 10 years of demonstrated technical experience in Information Cloud & Network Security in Managed Hosting and Cloud Solution.
+• Support Verticals which includes Providing Solutions like DesigningConfiguring & Troubleshooting of Secure Perimeter Gateways (FirewallsRouters) Load balancers (LTMGTM) LAN/WAN (SwitchingRouting)Web Proxies (BluecoatSquid) Incident Response & Network Vulnerability management (IDS/IPSArcsightSplunkDDOS).
+• Information Security and Working on CI/CD Automation Devops toolkit management GCP and AWS related Infrastructure Management using their cloud services and tools like Terraform Ansible Docker & ELK.",20/04/1997,08/08/2010
+kaleemullah.7777@gmail.com,DEVELOPER,Senior Software Engineer,,"• Total 7.8 years of Software Development experience in Web Windows based applications using Microsoft Technology (ASP.NET MVC C# AJAX SQL Server 2008/2012/2016 and JavaScript).
+• Working Knowledge on MS-SQL database and Store procedures.
+• Working knowledge on web service and WCF and Web API.
+• Working knowledge in the development of standalone applications and web-based applications.",03/09/1996,04/04/2014
+selvakqa@gmail.com,QE,  Lead SDET Engineer,,"• 7.3 years experienced SDET engineer having worked on Test Automation framework using Selenium and C#.
+• Fixing the failing tests developed in the Protractor framework and sharing the status with the leads.
+• Creating documentation and architecture for the new automation framework and getting it reviewed by the QA Architect.
+• Providing technical solutions to issues faced by the sub teams.
+• Contributing to the continuous improvement of the QA process.
+• Helping and mentoring fellow Test Engineers within the Automation domain.",08/03/1993,10/10/2014
+ngautamsdet@gmail.com,QE,Lead QA Engineer,,"● Software Engineer – Testing with 8.1 years of experience in SDLC STLC & Agile methodologies.
+● Sound experience in software testing process including designing developing and implementing test plans test cases and record results test summary reports and tracking defects and bugs.
+● Sound knowledge in Telecommunication E-commerce AutoMobile and Travel domain.
+● Involved in various phases of the testing life cycle such as Static System Integration and Regression testing.
+● Used various automation frameworks like Data driven framework BDD framework with Cucumber.
+● Proficient in using Github and Gitlab in automation framework.
+● Having experience of working in Rest API testing using SOAP UI and Rest Assured.
+● Ability to learn and quickly get familiar with a complex business and systems environment.",22/11/1996,09/09/2013
+chirag.ali47@gmail.com,QE,Senior QA Engineer,,"● ISTQB Foundation Certified Professional.
+● Possess 6.6+ years of relevant experience as a Manual and Automation Tester.
+● Proficient in Test Automation Selenium Tool.
+● Expertise in writing Selenium WebDriver automation scripts in Java and API scripts in python.
+● Experience in performance testing using JMeter.
+● Experience in Functional GUI Regression User Acceptance and Integration testing for Web based application.
+● Experience in Mobile Application Automation on iOS and Android.",20/12/1989,04/04/2013
+samay.thakkar@outlook.com ,QE,Lead QA Engineer,,Motivated and result-driven Automation Test Engineer with 8+ years experience in gathering requirements and developing test scripts for technical products. Proven ability to identify business needs and develop valuable solutions to improve accuracy and process efficiency. Seeking an opportunity to drive business effectiveness through test automation.,11/03/1998,11/11/2013
+panduranggpailvan@gmail.com,DEVELOPER,Senior Software Engineer,,"● 7+ years of experience in Microsoft .Net Technologies stack.
+● Currently working at Dreamz Software Solutions Pvt Ltd as Senior Software Engineer from Dec-2021 to
+till date.
+● Worked as Senior Enterprise Software Engineer Wolters Kluwer from April-2019 to Nov-2021.
+● Worked as Software Engineer at Perpetuuiti Technosoft from July-2014 to March 2019.
+● Experience of working on IT Infrastructure automation project.
+● Good work experience on C# MVC 5.0 .Net Core SQL Server jQuery Façade Design Pattern
+WEB API Web Services.
+● Having knowledge about Microsoft Azure Cloud. Completed certification for AZ-900 Azure
+fundamentals.
+● Experience of working on Apache SolrHangfireOctopus and Azure DevOps.
+● Having knowledge of incident management tools integration with .Net i.e. BMC Remedy Service
+Now Service Desk plus Jira etc. ",28/07/1992,07/07/2014
+gopalakrishnan.chakkaravarthy@hotmail.com,DEVELOPER,Lead Software Engineer,,● .Net Full Stack Developer with 11 years of experience in developing applications using .Net Core C# Asp.Net Web API and WCF for Health Care Investment Banking and PLM domain.,05/10/1996,01/01/2011
+shubhams930215@gmail.com,DEVELOPER,Software Engineer,,"● Possesses comprehensive and conceptual knowledge in Microservices .NET Framework and .NET Core.
+● Experienced in object-oriented programming developing and debugging code.
+● Proficient in grasping new technical concepts and utilizing them in an effective manner.
+● Excel in my field through hard work and perseverance.",06/03/1992,05/04/2015
+jagriti.magento@gmail.com,DEVELOPER,Magento Developer,,● I am a Magento developer with 4+ years of experience in developing Ecommerce solutions using Magento. I have a deep understanding of Magento2 architecture and can provide custom solutions that are tailored to meet the unique needs of my clients. My technical skills include: Expertise in PHP MySQL HTML CSS JavaScript and jQuery Proficiency in Magento 1.x and 2.x development and customization Experience in developing and integrating Magento extensions and modules Knowledge of Magento APIs and web services Familiarity with version control systems Since December 2016 have 6 years plus of extensive hands-on experience in website development and Digital Marketing. An experienced team player with excellent communication and interpersonal skills who has the ability to work independently under pressure. Currently working as Software Engineer at Truetech Solutions (PwC) as a MagentoDeveloper. MCA in 2016 from RKGIT Ghaziabad Uttar Pradesh. I am looking forward to joining a progressive organization. I have a high level of personal morals and integrity. I am Goal oriented self-motivated and committed to the successful outcome of the project. I am willing to work hard and have a great desire to learn.,20/02/1994,12/05/2016
+rajesh9205k@gmail.com,DM,Data Modeller,,● Dynamic and result-oriented multitasking professional with 10+ years of experience in Analytics Data modelling and Business Intelligence in real estate housing Hospitality and finance sector.,08/09/1991,06/06/2013
+vaibhavbangar28@gmail.com,DEVELOPER,Sr. Java Developer,,"● Around 7 years of experience developing applications on Java J2EE on Spring Spring boot.
+● Expertise with designing and developing microservices with Spring boot and Spring Cloud Spring Data JPA SQL and No-SQL databases.
+● Keen eye for design and code quality developed by a team experienced using SonarQube for static code analysis and fixes.
+● Experienced with major development and versioning tools - Eclipse STS Git Jira IntelliJ IDEA etc.
+● Understanding of frontend technologies - Javascript jQuery HTML CSS.",22/01/1991,02/02/2017
+samay.thakkar@outlook.com,QE,Sr. QA Automation- Salesforce,,Motivated and results-driven Automation Test Engineer with around 10 years of experience in gathering requirements and developing test scripts for technical products. Proven ability to identify business needs and develop valuable solutions to improve accuracy and process efficiency. Seeking an opportunity to drive business effectiveness through test automation.,25/04/1990,11/03/2013
+setiya.hitesh@gmail.com,FS_DEVELOPER,Full Stack Developer,,Experienced Full Stack Java Developer with a demonstrated history of working in the computer software industry.,26/02/1992,01/08/2020
+tejas.p@goldeneagle.ai,DE,Data Engineer,,"• I have 6+ years of experience in Data Science Now seeking an opportunity to utilize my skills and abilities that offer Professional and Organizational growth as well.
+• Expertise in preparing and preprocessing data deriving useful insights from data developing and deploying highly scalable machine learning mode.good in tableau. I worked on Healthcare & Finance Domain.
+● Conduct exploratory data analysis to identify patterns and trends in large datasets.
+● Develop predictive models and algorithms using statistical and machine learning techniques.
+● Communicate findings and recommendations to stakeholders using data visualizations and presentations.
+● Collaborate with engineers and product managers to integrate data science solutions into products and services.
+● Continuously evaluate and improve the performance of data science models and algorithms.",22/05/1992,03/03/2017
+vidish1@gmail.com,DEVELOPER,Sr. PHP Developer,,• I am a PHP web developer. I have 12 years of total IT experience.I am very much confident about my code part of the language My main area of experience has been design and delivery of enterprise solution on PHP platform. I have worked primarily in the domain of Website Development. My technological forte is Core PHP Laravel WordPress Codeigniter CakePHP Kohana My SQL SQL SERVER Oracle.,03/12/1993,01/06/2012
+rajeshawariravindra@gmail.com,DEVOPS,DevOps Engineer ,,"• Experienced and Innovative DevOps Engineer with 4.1 Years of expertise in Software Configuration Release Management and Building & Deploying Software. Automation Control & Environment Management activities in Web & Enterprise Applications.
+• Experience in Shell Scripting& Linux Administration (entry-level)
+• Well-versed in maintaining the code base for each project using SCM tools like GitHub and GitLab.
+• Expertise in using build tool like Maven for the building of deployable artifacts such as war & ear from source code.
+• Experience integrating Unit Tests and Code Quality Analysis Tools like SonarQube per client requirements.
+• Experience in using Nexus Repository Manager for Maven builds.
+• Experience in Configuring and deploying to Application Servers Tomcat.
+• Experience in using Apache & Nginx web servers for deployments and hosting.
+• Administration/Maintenance experiences of Continuous Integration build engine Jenkins Deploying configuring managing maintaining a Master and Slave machines using Jenkins.
+• Experience in managing project environments like DEV QA TEST and PRE-PROD for various releases and designed instance strategies.
+• Working experience in Docker Containerization tool and deployed applications using containers in various environments.
+• Having expertise in writing Docker Files.
+• Expertise in creating Docker Images and maintaining Docker Images in private artifactory repository Nexus
+• Experience in Amazon AWS Cloud Administration which includes services like EC2 S3 EBS EFS EKSECS ECR VPC ELB AMI IAM Auto Scaling and Security Groups
+• Experience in Setup/Managing VPC creating Public & Private Subnets connecting two different VPC using VPC Peering
+• Experience in creating Amazon AWS EFS to mount a running Docker Container in order to take data backup
+• Working experience in Ticketing tool like ServiceNow.
+• Hands on experience in Grafana monitoring tool to monitor major metrics like Network packets CPU utilization Load Balancer Latency.
+• Hands on experience in Kubernetes container orchestration tool in creating Kubernetes manifest files like daemon sets replica sets deployments.
+• Having Knowledge in Blue-green Deployment Strategy.",25/03/1991,05/05/2023
+ahmad@elsner.in,DEVELOPER,Sr. iOS Developer        ,,"● IT Professional having more than 6+ Years of experience as an IOS Developer.
+● Intend to build a career in a leading corporate hi-tech environment with committed & dedicated people which will help me to explore myself fully and realize my potential.
+• Software Engineer specialized in developing iOS platforms. Solid background in computer science and programming skills. A self-motivated quick learner and a good Team player. Moreover I will try to learn deeply in my profession. By doing so I will be able to do my job more proficiently and faithfully.
+• Over 5 years of experience in the area of software development for iOS.
+• Experience in evaluation design development testing maintenance and production using the SDLC process and AGILE Methodologies.
+• Experience with various design patterns such as Singleton Delegation Notification MVC MVVM etc.
+• Knowledge of professional software engineering practices and best practices for the full software development life cycle including coding standards source control management build processes testing and operations.
+• Taking care of Swift concepts like memory management and concurrency.",01/05/1990,01/01/2017
+krishn.tushar@gmail.com,DEVOPS,Devops Engineer ,,"● IT Professional having more than 5 years of experience Managing Infrastructure and Migrations in Azure.
+● Experience in handling migrations from On-Premises to Azure.
+● Experience in Setting up Monitoring for Azure projects and integrating with other Monitoring tools.
+● Designing and Creation of Self managed and Cloud managed Kubernetes Clusters.
+● Extensively worked in provisioning infrastructure using terraform.
+● Experience in the patching of servers using OS patch manager.
+● Deployment and Management of LAMP stack.
+● Implemented CI/CD Process with to have automation of Continuous Integration Continues Delivery and Continuous Deployment
+● Having good judgment and communication skills required for reporting and prioritizing software bugs in conjunction with the Development team.
+● Efficient at quickly adapting to new environments new technologies and facing new challenges. Multitask-oriented with a strong competitive drive and work ethic to succeed.",24/11/1998,04/04/2017
+sumeet@teaminnovatics.com,BA,IA Lead,,I bring to the table a positive attitude good communication skills. I can quickly grasp and adapt to any requirements; this allows me to easily switch between different languages and technologies. I also have a strong interest in the data analytics field and would be keen to work given an opportunity.,24/07/1994,01/01/2020
+prathamesh.kulkarni@salorix.in,DEVELOPER,Sr. .Net Developer,,• A self motivated software solution architect with 12+ years of experience in developing web applications using the latest technologies – Frontend: Angular PWA React CSS jQuery JavaScript Bootstrap 2 Typescript; Server Side: C# LINQ Asp.Net MVC Web API Entity Framework .Net Core Express JS Node JS,25/03/1997,02/02/2012
+bhaveshbhuva108@gmail.com,FS_DEVELOPER,Senior Full Stack WordPress and Shopify Developer,,"• A self-motivated software engineer with 9+ years of experience in developing web applications using the latest technologies - HTML5 CSS3 Javascript jQuery API PHP and WordPress Quick Learner with good grasping abilities are my major strengths.
+",15/04/1995,04/04/2014
+
+
